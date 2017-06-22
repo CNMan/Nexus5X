@@ -26,3 +26,4 @@ https://dl.google.com/dl/android/aosp/bullhead-n4f26t-factory-8eed1d9f.zip
 https://dl.google.com/dl/android/aosp/bullhead-n4f26u-factory-e6420fc1.zip
 https://dl.google.com/dl/android/aosp/bullhead-n2g47f-factory-f5d53a67.zip
 https://dl.google.com/dl/android/aosp/bullhead-n2g47o-factory-3ff32f55.zip
+https://dl.google.com/dl/android/aosp/bullhead-n2g47w-factory-e4179e51.zip
