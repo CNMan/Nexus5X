@@ -32,3 +32,4 @@ https://dl.google.com/dl/android/aosp/bullhead-n2g48c-factory-45d442a2.zip
 https://dl.google.com/dl/android/aosp/bullhead-opr6.170623.013-factory-203642e1.zip
 https://dl.google.com/dl/android/aosp/bullhead-opr4.170623.006-factory-e876a276.zip
 https://dl.google.com/dl/android/aosp/bullhead-opr4.170623.009-factory-b9f20abf.zip
+https://dl.google.com/dl/android/aosp/bullhead-opr6.170623.023-factory-71c4191e.zip

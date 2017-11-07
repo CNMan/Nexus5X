@@ -22,4 +22,4 @@ https://dl.google.com/dl/android/aosp/bullhead-ota-n2g47z-07a2c0b4.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-n2g48c-b90e4a00.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opr6.170623.013-87f85e44.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opr4.170623.006-98637094.zip
-https://dl.google.com/dl/android/aosp/bullhead-ota-opr4.170623.009-3d87beab.zip
+https://dl.google.com/dl/android/aosp/bullhead-ota-opr6.170623.023-f6c8c456.zip
