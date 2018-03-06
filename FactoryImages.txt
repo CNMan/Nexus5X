@@ -39,3 +39,5 @@ https://dl.google.com/dl/android/aosp/bullhead-opm3.171019.013-factory-20d65754.
 https://dl.google.com/dl/android/aosp/bullhead-opm5.171019.014-factory-2f815bac.zip
 https://dl.google.com/dl/android/aosp/bullhead-opm3.171019.014-factory-79f53247.zip
 https://dl.google.com/dl/android/aosp/bullhead-opm5.171019.015-factory-1a2de10b.zip
+https://dl.google.com/dl/android/aosp/bullhead-opm3.171019.016-factory-6e4c89cb.zip
+https://dl.google.com/dl/android/aosp/bullhead-opm5.171019.017-factory-5c65d443.zip
