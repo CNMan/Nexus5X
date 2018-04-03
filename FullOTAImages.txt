@@ -31,3 +31,4 @@ https://dl.google.com/dl/android/aosp/bullhead-ota-opm3.171019.014-19dbdfdd.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm5.171019.015-394c6cd7.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm3.171019.016-f7a9b546.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm5.171019.017-caac6618.zip
+https://dl.google.com/dl/android/aosp/bullhead-ota-opm2.171019.029-eaafce59.zip
