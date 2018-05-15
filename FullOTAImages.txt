@@ -195,6 +195,7 @@ https://dl.google.com/dl/android/aosp/angler-ota-opm3.171019.016-21b6cd95.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm5.171019.017-cae9a4fd.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm3.171019.019-cf5e76e4.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm5.171019.019-673ade6a.zip
+https://dl.google.com/dl/android/aosp/angler-ota-opm2.171019.029.a1-d2f29af4.zip
 https://dl.google.com/dl/android/aosp//bullhead-ota-mhc19q-8fe67a2b.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19t-4ea6522b.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19v-821d513d.zip

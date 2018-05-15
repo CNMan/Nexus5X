@@ -306,6 +306,8 @@ https://dl.google.com/dl/android/aosp/huawei-angler-opm3.171019.019-ec4a1fe9.tgz
 https://dl.google.com/dl/android/aosp/qcom-angler-opm3.171019.019-2769014b.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-opm5.171019.019-d1df7357.tgz
 https://dl.google.com/dl/android/aosp/qcom-angler-opm5.171019.019-32d89942.tgz
+https://dl.google.com/dl/android/aosp/huawei-angler-opm2.171019.029.a1-a0ff57ab.tgz
+https://dl.google.com/dl/android/aosp/qcom-angler-opm2.171019.029.a1-077c1802.tgz
 https://dl.google.com/dl/android/aosp/lge-bullhead-nmf26f-7bf6caec.tgz
 https://dl.google.com/dl/android/aosp/qcom-bullhead-nmf26f-fa1a80d5.tgz
 https://dl.google.com/dl/android/aosp/lge-bullhead-n4f26i-92812ec6.tgz

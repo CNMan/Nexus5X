@@ -209,6 +209,7 @@ https://dl.google.com/dl/android/aosp/angler-opm3.171019.016-factory-08de5265.zi
 https://dl.google.com/dl/android/aosp/angler-opm5.171019.017-factory-64398f10.zip
 https://dl.google.com/dl/android/aosp/angler-opm3.171019.019-factory-e48da4e0.zip
 https://dl.google.com/dl/android/aosp/angler-opm5.171019.019-factory-e6191337.zip
+https://dl.google.com/dl/android/aosp/angler-opm2.171019.029.a1-factory-bf17e552.zip
 https://dl.google.com/dl/android/aosp/bullhead-mda89e-factory-d716b566.zip
 https://dl.google.com/dl/android/aosp/bullhead-mdb08i-factory-329f6582.zip
 https://dl.google.com/dl/android/aosp/bullhead-mdb08l-factory-69995ae9.zip
