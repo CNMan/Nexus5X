@@ -325,6 +325,7 @@ https://dl.google.com/dl/android/aosp/shamu-n6f27i-factory-edc6a1ba.zip
 https://dl.google.com/dl/android/aosp/shamu-n8i11b-factory-9f65ba63.zip
 https://dl.google.com/dl/android/aosp/shamu-ngi55d-factory-1132151d.zip
 https://dl.google.com/dl/android/aosp/shamu-n6f27m-factory-bf5cce08.zip
+https://dl.google.com/dl/android/aosp/shamu-n8i11f-factory-ae7e8dcf.zip
 https://dl.google.com/dl/android/aosp/shamu-ngi77b-factory-5cd75e2a.zip
 https://dl.google.com/dl/android/aosp/fugu-lrx21m-factory-e012394c.zip
 https://dl.google.com/dl/android/aosp/fugu-lrx21v-factory-2f283d96.zip

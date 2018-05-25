@@ -279,6 +279,7 @@ https://dl.google.com/dl/android/aosp/shamu-ota-n6f27i-52bf4395.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-n8i11b-6ae9468e.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-ngi55d-13b2aa29.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-n6f27m-df27bd83.zip
+https://dl.google.com/dl/android/aosp/shamu-ota-n8i11f-b4de4046.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-ngi77b-0ea2ff80.zip
 https://dl.google.com/dl/android/aosp//razor-ota-mob30d-b7239cf4.zip
 https://dl.google.com/dl/android/aosp/razor-ota-mob30j-a1d349f7.zip

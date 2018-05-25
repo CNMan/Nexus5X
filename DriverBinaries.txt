@@ -631,6 +631,9 @@ https://dl.google.com/dl/android/aosp/qcom-shamu-ngi55d-c5c2a13a.tgz
 https://dl.google.com/dl/android/aosp/broadcom-shamu-n6f27m-f127d01b.tgz
 https://dl.google.com/dl/android/aosp/moto-shamu-n6f27m-4596dbc2.tgz
 https://dl.google.com/dl/android/aosp/qcom-shamu-n6f27m-308c6363.tgz
+https://dl.google.com/dl/android/aosp/broadcom-shamu-n8i11f-516b83c2.tgz
+https://dl.google.com/dl/android/aosp/moto-shamu-n8i11f-d54f62a7.tgz
+https://dl.google.com/dl/android/aosp/qcom-shamu-n8i11f-cafd8b4a.tgz
 https://dl.google.com/dl/android/aosp/broadcom-shamu-ngi77b-d64a19ce.tgz
 https://dl.google.com/dl/android/aosp/moto-shamu-ngi77b-70540018.tgz
 https://dl.google.com/dl/android/aosp/qcom-shamu-ngi77b-b5a5aacc.tgz
