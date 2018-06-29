@@ -378,6 +378,7 @@ https://dl.google.com/dl/android/aosp/arm-hikey960-NOU-6eafa750.tgz
 https://dl.google.com/dl/android/aosp/hisilicon-hikey960-NOU-5db76395.tgz
 https://dl.google.com/dl/android/aosp/arm-hikey960-NOU-7ad3cccc.tgz
 https://dl.google.com/dl/android/aosp/arm-hikey960-OPR-cf4e0c80.tgz
+https://dl.google.com/dl/android/aosp/hisilicon-hikey960-OPR-3c243263.tgz
 https://dl.google.com/dl/android/aosp/google_devices-dragon-mxb48k-b7757cf8.tgz
 https://dl.google.com/dl/android/aosp/nvidia-dragon-mxb48k-d8e0daf3.tgz
 https://dl.google.com/dl/android/aosp/google_devices-dragon-mxb48t-59e2d6fa.tgz
