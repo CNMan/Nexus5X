@@ -18,6 +18,8 @@ https://dl.google.com/dl/android/aosp/taimen-ota-opm2.171026.006.c1-e5ce99bc.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opm4.171019.021.e1-817aa113.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opm2.171026.006.h1-339d5d30.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opm4.171019.021.r1-83539bc7.zip
+https://dl.google.com/dl/android/aosp/taimen-ota-ppr1.180610.009-8ac43d39.zip
+https://dl.google.com/dl/android/aosp/taimen-ota-ppr1.180610.011-d5d094b0.zip
 https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.010-768eb7b1.zip
 https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.011-1e0ba663.zip
 https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.012-e69461b4.zip
@@ -42,6 +44,8 @@ https://dl.google.com/dl/android/aosp/walleye-ota-opm2.171026.006.c1-33e9c879.zi
 https://dl.google.com/dl/android/aosp/walleye-ota-opm4.171019.021.e1-a374575e.zip
 https://dl.google.com/dl/android/aosp/walleye-ota-opm2.171026.006.g1-b06e7b35.zip
 https://dl.google.com/dl/android/aosp/walleye-ota-opm4.171019.021.q1-065c848f.zip
+https://dl.google.com/dl/android/aosp/walleye-ota-ppr1.180610.009-22d3af61.zip
+https://dl.google.com/dl/android/aosp/walleye-ota-ppr1.180610.011-758e2d65.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-nde63h-0c0ed502.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-nde63l-205d22e7.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-nde63p-20858ae7.zip
@@ -92,6 +96,8 @@ https://dl.google.com/dl/android/aosp/marlin-ota-opm2.171019.029-cfa79090.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-opm4.171019.016.b1-6811029d.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-opm4.171019.021.d1-fd6998a5.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-opm4.171019.021.p1-f0709550.zip
+https://dl.google.com/dl/android/aosp/marlin-ota-ppr1.180610.009-657223c1.zip
+https://dl.google.com/dl/android/aosp/marlin-ota-ppr1.180610.010-858a8d39.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-nde63h-995d0511.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-nde63l-8223118b.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-nde63p-688a930b.zip
@@ -142,6 +148,8 @@ https://dl.google.com/dl/android/aosp/sailfish-ota-opm2.171019.029-d0f1d78c.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-opm4.171019.016.b1-b387f7b2.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-opm4.171019.021.d1-fbca7ada.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-opm4.171019.021.p1-9fe2c539.zip
+https://dl.google.com/dl/android/aosp/sailfish-ota-ppr1.180610.009-ddead1af.zip
+https://dl.google.com/dl/android/aosp/sailfish-ota-ppr1.180610.010-fd4ff9ef.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-m5c14j-cfffc36e.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-mxc89f-f4d5d078.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-mxc89h-39bdb33f.zip
@@ -172,6 +180,7 @@ https://dl.google.com/dl/android/aosp/ryu-ota-opm1.171019.026-a9f2738e.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm4.171019.016.c1-cc83e359.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm4.171019.021.d1-b9d18425.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm4.171019.021.n1-c5faa644.zip
+https://dl.google.com/dl/android/aosp/ryu-ota-opm4.171019.021.y1-4bf1fd50.zip
 https://dl.google.com/dl/android/aosp//angler-ota-mhc19q-b9ac826b.zip
 https://dl.google.com/dl/android/aosp/angler-ota-mtc19t-0884ae89.zip
 https://dl.google.com/dl/android/aosp/angler-ota-mtc19v-cb7d5b1c.zip
@@ -212,6 +221,7 @@ https://dl.google.com/dl/android/aosp/angler-ota-opm5.171019.019-673ade6a.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm2.171019.029.a1-d2f29af4.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm6.171019.030.b1-94c3a3a6.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm6.171019.030.e1-668c121c.zip
+https://dl.google.com/dl/android/aosp/angler-ota-opm6.171019.030.h1-ad27a75f.zip
 https://dl.google.com/dl/android/aosp//bullhead-ota-mhc19q-8fe67a2b.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19t-4ea6522b.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19v-821d513d.zip
@@ -249,6 +259,7 @@ https://dl.google.com/dl/android/aosp/bullhead-ota-opm2.171019.029-eaafce59.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm4.171019.016.a1-510a2077.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm6.171019.030.b1-264e9d26.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm6.171019.030.e1-29a6b953.zip
+https://dl.google.com/dl/android/aosp/bullhead-ota-opm6.171019.030.h1-9578f559.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-mmb29x-13c27a19.zip
 https://dl.google.com/dl/android/aosp//hammerhead-ota-mob30d-74ff57bc.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30h-672f59e1.zip
