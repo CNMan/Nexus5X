@@ -42,6 +42,8 @@ https://dl.google.com/dl/android/aosp/google_devices-taimen-ppr1.180610.009-2412
 https://dl.google.com/dl/android/aosp/qcom-taimen-ppr1.180610.009-e30e969b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-taimen-ppr1.180610.011-36d10cce.tgz
 https://dl.google.com/dl/android/aosp/qcom-taimen-ppr1.180610.011-0eef0245.tgz
+https://dl.google.com/dl/android/aosp/google_devices-taimen-ppr2.180905.005-29149e00.tgz
+https://dl.google.com/dl/android/aosp/qcom-taimen-ppr2.180905.005-cdde1ad3.tgz
 https://dl.google.com/dl/android/aosp/google_devices-walleye-opd1.170816.010-35f13b5b.tgz
 https://dl.google.com/dl/android/aosp/qcom-walleye-opd1.170816.010-51c4cf89.tgz
 https://dl.google.com/dl/android/aosp/google_devices-walleye-opd1.170816.011-ff614951.tgz
@@ -94,6 +96,8 @@ https://dl.google.com/dl/android/aosp/google_devices-walleye-ppr1.180610.009-83b
 https://dl.google.com/dl/android/aosp/qcom-walleye-ppr1.180610.009-d05a65ea.tgz
 https://dl.google.com/dl/android/aosp/google_devices-walleye-ppr1.180610.011-ed5dc01f.tgz
 https://dl.google.com/dl/android/aosp/qcom-walleye-ppr1.180610.011-928f5bec.tgz
+https://dl.google.com/dl/android/aosp/google_devices-walleye-ppr2.180905.005-e0a3b0d0.tgz
+https://dl.google.com/dl/android/aosp/qcom-walleye-ppr2.180905.005-7f960082.tgz
 https://dl.google.com/dl/android/aosp/google_devices-marlin-nde63p-5058f8b6.tgz
 https://dl.google.com/dl/android/aosp/qcom-marlin-nde63p-aacc7d00.tgz
 https://dl.google.com/dl/android/aosp/google_devices-marlin-nde63u-b014f965.tgz
@@ -194,6 +198,12 @@ https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr1.180610.009-80eb
 https://dl.google.com/dl/android/aosp/qcom-marlin-ppr1.180610.009-44cd57bd.tgz
 https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr1.180610.010-6db5e704.tgz
 https://dl.google.com/dl/android/aosp/qcom-marlin-ppr1.180610.010-81aad0da.tgz
+https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr1.180905.003-cf88e6cc.tgz
+https://dl.google.com/dl/android/aosp/qcom-marlin-ppr1.180905.003-103cf4e4.tgz
+https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr2.180905.006-3b3794d1.tgz
+https://dl.google.com/dl/android/aosp/qcom-marlin-ppr2.180905.006-b5608eb4.tgz
+https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr2.180905.006.a1-1090e880.tgz
+https://dl.google.com/dl/android/aosp/qcom-marlin-ppr2.180905.006.a1-d11de9e0.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-nde63p-c36cb625.tgz
 https://dl.google.com/dl/android/aosp/qcom-sailfish-nde63p-50a5f1e0.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-nde63u-83a7b9d9.tgz
@@ -294,6 +304,12 @@ https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr1.180610.009-97
 https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr1.180610.009-0641ac22.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr1.180610.010-20b1ab11.tgz
 https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr1.180610.010-ab4b7eaa.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr1.180905.003-90ba1020.tgz
+https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr1.180905.003-3e5e8bb3.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr2.180905.006-24b9b506.tgz
+https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr2.180905.006-78b44c9b.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr2.180905.006.a1-f7732816.tgz
+https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr2.180905.006.a1-20506286.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-nmf26f-4bfa9336.tgz
 https://dl.google.com/dl/android/aosp/qcom-angler-nmf26f-bc490eff.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-n4f26i-05dd76f7.tgz
@@ -354,6 +370,8 @@ https://dl.google.com/dl/android/aosp/huawei-angler-opm6.171019.030.e1-fb9794f0.
 https://dl.google.com/dl/android/aosp/qcom-angler-opm6.171019.030.e1-0ff64f21.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-opm6.171019.030.h1-39376dfa.tgz
 https://dl.google.com/dl/android/aosp/qcom-angler-opm6.171019.030.h1-3688f18b.tgz
+https://dl.google.com/dl/android/aosp/huawei-angler-opm6.171019.030.k1-19d9d662.tgz
+https://dl.google.com/dl/android/aosp/qcom-angler-opm6.171019.030.k1-dd49ca67.tgz
 https://dl.google.com/dl/android/aosp/lge-bullhead-nmf26f-7bf6caec.tgz
 https://dl.google.com/dl/android/aosp/qcom-bullhead-nmf26f-fa1a80d5.tgz
 https://dl.google.com/dl/android/aosp/lge-bullhead-n4f26i-92812ec6.tgz
@@ -408,6 +426,8 @@ https://dl.google.com/dl/android/aosp/lge-bullhead-opm6.171019.030.e1-08e681a4.t
 https://dl.google.com/dl/android/aosp/qcom-bullhead-opm6.171019.030.e1-dc9f91ad.tgz
 https://dl.google.com/dl/android/aosp/lge-bullhead-opm6.171019.030.h1-07bea2af.tgz
 https://dl.google.com/dl/android/aosp/qcom-bullhead-opm6.171019.030.h1-73bb3b8d.tgz
+https://dl.google.com/dl/android/aosp/lge-bullhead-opm6.171019.030.k1-bf596934.tgz
+https://dl.google.com/dl/android/aosp/qcom-bullhead-opm6.171019.030.k1-98e64c90.tgz
 https://dl.google.com/dl/android/aosp/linaro-hikey-20160226-67c37b1a.tgz
 https://dl.google.com/dl/android/aosp/linaro-hikey-20170523-4b9ebaff.tgz
 https://dl.google.com/dl/android/aosp/arm-hikey960-NOU-6eafa750.tgz
@@ -483,6 +503,8 @@ https://dl.google.com/dl/android/aosp/google_devices-dragon-opm4.171019.021.n1-0
 https://dl.google.com/dl/android/aosp/nvidia-dragon-opm4.171019.021.n1-fd90e438.tgz
 https://dl.google.com/dl/android/aosp/google_devices-dragon-opm4.171019.021.y1-ef9825d5.tgz
 https://dl.google.com/dl/android/aosp/nvidia-dragon-opm4.171019.021.y1-42c483c1.tgz
+https://dl.google.com/dl/android/aosp/google_devices-dragon-opm4.171019.021.z1-500dfb5e.tgz
+https://dl.google.com/dl/android/aosp/nvidia-dragon-opm4.171019.021.z1-8605e3b9.tgz
 https://dl.google.com/dl/android/aosp/broadcom-shamu-lrx21o-c5b4b7b3.tgz
 https://dl.google.com/dl/android/aosp/moto-shamu-lrx21o-07a0a5f4.tgz
 https://dl.google.com/dl/android/aosp/qcom-shamu-lrx21o-6c2fd35c.tgz
