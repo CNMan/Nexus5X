@@ -1,3 +1,11 @@
+https://dl.google.com/dl/android/aosp/google_devices-crosshatch-pd1a.180720.030-d85db144.tgz
+https://dl.google.com/dl/android/aosp/qcom-crosshatch-pd1a.180720.030-bf86f269.tgz
+https://dl.google.com/dl/android/aosp/google_devices-crosshatch-pd1a.180720.031-89f53dd8.tgz
+https://dl.google.com/dl/android/aosp/qcom-crosshatch-pd1a.180720.031-1e03d877.tgz
+https://dl.google.com/dl/android/aosp/google_devices-blueline-pd1a.180720.030-c47f3403.tgz
+https://dl.google.com/dl/android/aosp/qcom-blueline-pd1a.180720.030-e7d336ce.tgz
+https://dl.google.com/dl/android/aosp/google_devices-blueline-pd1a.180720.031-940f6fba.tgz
+https://dl.google.com/dl/android/aosp/qcom-blueline-pd1a.180720.031-0cdc5732.tgz
 https://dl.google.com/dl/android/aosp/google_devices-taimen-opd1.170816.010-6f251667.tgz
 https://dl.google.com/dl/android/aosp/qcom-taimen-opd1.170816.010-08580d0f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-taimen-opd1.170816.011-32969266.tgz
