@@ -115,6 +115,8 @@ https://dl.google.com/dl/android/aosp/marlin-ota-ppr2.180905.006-809f6887.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-ppr2.180905.006.a1-34e91bd3.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-ppr1.181005.003-b9a78d71.zip
 https://dl.google.com/dl/android/aosp/marlin-ota-ppr2.181005.003-469ae02d.zip
+https://dl.google.com/dl/android/aosp/marlin-ota-ppr1.181005.003.a1-4657de4d.zip
+https://dl.google.com/dl/android/aosp/marlin-ota-ppr2.181005.003.a1-2b95d4d2.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-nde63h-995d0511.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-nde63l-8223118b.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-nde63p-688a930b.zip
@@ -172,6 +174,8 @@ https://dl.google.com/dl/android/aosp/sailfish-ota-ppr2.180905.006-18857afc.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-ppr2.180905.006.a1-a2adb8b4.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-ppr1.181005.003-1ac4e10b.zip
 https://dl.google.com/dl/android/aosp/sailfish-ota-ppr2.181005.003-db23e6d5.zip
+https://dl.google.com/dl/android/aosp/sailfish-ota-ppr1.181005.003.a1-c32f580c.zip
+https://dl.google.com/dl/android/aosp/sailfish-ota-ppr2.181005.003.a1-89adce91.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-m5c14j-cfffc36e.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-mxc89f-f4d5d078.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-mxc89h-39bdb33f.zip

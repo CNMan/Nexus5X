@@ -228,6 +228,10 @@ https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr1.181005.003-7e3e
 https://dl.google.com/dl/android/aosp/qcom-marlin-ppr1.181005.003-9de1eccf.tgz
 https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr2.181005.003-b6bcb626.tgz
 https://dl.google.com/dl/android/aosp/qcom-marlin-ppr2.181005.003-a966bae1.tgz
+https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr1.181005.003.a1-63e8d2de.tgz
+https://dl.google.com/dl/android/aosp/qcom-marlin-ppr1.181005.003.a1-785fed6a.tgz
+https://dl.google.com/dl/android/aosp/google_devices-marlin-ppr2.181005.003.a1-1ede1c71.tgz
+https://dl.google.com/dl/android/aosp/qcom-marlin-ppr2.181005.003.a1-73353f91.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-nde63p-c36cb625.tgz
 https://dl.google.com/dl/android/aosp/qcom-sailfish-nde63p-50a5f1e0.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-nde63u-83a7b9d9.tgz
@@ -338,6 +342,10 @@ https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr2.181005.003-f4
 https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr2.181005.003-ceae5abf.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr1.181005.003-d5fbc5b8.tgz
 https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr1.181005.003-fbbc9b19.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr1.181005.003.a1-75bcc864.tgz
+https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr1.181005.003.a1-2a3e4e21.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sailfish-ppr2.181005.003.a1-74bdabe2.tgz
+https://dl.google.com/dl/android/aosp/qcom-sailfish-ppr2.181005.003.a1-73d3aa85.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-nmf26f-4bfa9336.tgz
 https://dl.google.com/dl/android/aosp/qcom-angler-nmf26f-bc490eff.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-n4f26i-05dd76f7.tgz
