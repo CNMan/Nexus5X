@@ -1,9 +1,11 @@
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.030-factory-38b1b90a.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.031-factory-7e9da376.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181105.017.a1-factory-6f06f1a0.zip
+https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181205.006-factory-96b23504.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.030-factory-d6fefe86.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.031-factory-3df41a2b.zip
 https://dl.google.com/dl/android/aosp/blueline-pq1a.181105.017.a1-factory-b00ec7b5.zip
+https://dl.google.com/dl/android/aosp/blueline-pq1a.181205.006-factory-af1829a6.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.010-factory-c796ddb4.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.011-factory-1b02df7a.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.012-factory-20574403.zip
@@ -29,6 +31,7 @@ https://dl.google.com/dl/android/aosp/taimen-ppr1.180610.011-factory-9f0cb004.zi
 https://dl.google.com/dl/android/aosp/taimen-ppr2.180905.005-factory-c21252d4.zip
 https://dl.google.com/dl/android/aosp/taimen-ppr2.181005.003-factory-f0a1d2c1.zip
 https://dl.google.com/dl/android/aosp/taimen-pq1a.181105.017.a1-factory-e79a94ed.zip
+https://dl.google.com/dl/android/aosp/taimen-pq1a.181205.002-factory-4d01cf61.zip
 https://dl.google.com/dl/android/aosp/walleye-opd1.170816.010-factory-63083164.zip
 https://dl.google.com/dl/android/aosp/walleye-opd1.170816.011-factory-cd9a3474.zip
 https://dl.google.com/dl/android/aosp/walleye-opd1.170816.012-factory-a771b8c2.zip
@@ -58,6 +61,7 @@ https://dl.google.com/dl/android/aosp/walleye-ppr1.180610.011-factory-0fbd3048.z
 https://dl.google.com/dl/android/aosp/walleye-ppr2.180905.005-factory-4895938f.zip
 https://dl.google.com/dl/android/aosp/walleye-ppr2.181005.003-factory-8613da61.zip
 https://dl.google.com/dl/android/aosp/walleye-pq1a.181105.017.a1-factory-408e5a32.zip
+https://dl.google.com/dl/android/aosp/walleye-pq1a.181205.002-factory-fb27eb5a.zip
 https://dl.google.com/dl/android/aosp/marlin-nde63h-factory-96adcecf.zip
 https://dl.google.com/dl/android/aosp/marlin-nde63l-factory-71a65e7e.zip
 https://dl.google.com/dl/android/aosp/marlin-nde63p-factory-dcdaaa51.zip
@@ -214,6 +218,7 @@ https://dl.google.com/dl/android/aosp/ryu-opm4.171019.021.y1-factory-02bcca94.zi
 https://dl.google.com/dl/android/aosp/ryu-opm4.171019.021.z1-factory-5caf896d.zip
 https://dl.google.com/dl/android/aosp/ryu-opm8.181005.003-factory-d5eea995.zip
 https://dl.google.com/dl/android/aosp/ryu-opm8.181105.002-factory-fa8f00b5.zip
+https://dl.google.com/dl/android/aosp/ryu-opm8.181205.001-factory-11eb366b.zip
 https://dl.google.com/dl/android/aosp/angler-mda89d-factory-9f001626.zip
 https://dl.google.com/dl/android/aosp/angler-mdb08k-factory-46550886.zip
 https://dl.google.com/dl/android/aosp/angler-mdb08l-factory-bb060be5.zip
@@ -268,6 +273,7 @@ https://dl.google.com/dl/android/aosp/angler-opm6.171019.030.h1-factory-00138df6
 https://dl.google.com/dl/android/aosp/angler-opm6.171019.030.k1-factory-adc4f069.zip
 https://dl.google.com/dl/android/aosp/angler-opm7.181005.003-factory-42c955a4.zip
 https://dl.google.com/dl/android/aosp/angler-opm7.181105.004-factory-41baa917.zip
+https://dl.google.com/dl/android/aosp/angler-opm7.181205.001-factory-b75ce068.zip
 https://dl.google.com/dl/android/aosp/bullhead-mda89e-factory-d716b566.zip
 https://dl.google.com/dl/android/aosp/bullhead-mdb08i-factory-329f6582.zip
 https://dl.google.com/dl/android/aosp/bullhead-mdb08l-factory-69995ae9.zip
@@ -319,6 +325,7 @@ https://dl.google.com/dl/android/aosp/bullhead-opm6.171019.030.h1-factory-81957f
 https://dl.google.com/dl/android/aosp/bullhead-opm6.171019.030.k1-factory-0ae3cd15.zip
 https://dl.google.com/dl/android/aosp/bullhead-opm7.181005.003-factory-e23fac1c.zip
 https://dl.google.com/dl/android/aosp/bullhead-opm7.181105.004-factory-37df0288.zip
+https://dl.google.com/dl/android/aosp/bullhead-opm7.181205.001-factory-5f189d84.zip
 https://dl.google.com/dl/android/aosp/shamu-lrx21o-factory-ef423ec5.zip
 https://dl.google.com/dl/android/aosp/shamu-lrx22c-factory-2b930c37.zip
 https://dl.google.com/dl/android/aosp/shamu-lmy47d-factory-228e9d64.zip
