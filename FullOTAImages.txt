@@ -2,10 +2,12 @@ https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.030-21ac68ff.zi
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.031-e5f99be0.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181105.017.a1-feb712c3.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181205.006-bc75321e.zip
+https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181205.006.a1-359dc9b0.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.030-1d5a4f8d.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.031-60fa3eba.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pq1a.181105.017.a1-7f2186c3.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pq1a.181205.006-25420c78.zip
+https://dl.google.com/dl/android/aosp/blueline-ota-pq1a.181205.006.a1-a665cd08.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.010-825664c4.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.011-797ba455.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.012-c726c936.zip

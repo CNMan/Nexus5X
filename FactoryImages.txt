@@ -2,10 +2,12 @@ https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.030-factory-38b1b90
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.031-factory-7e9da376.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181105.017.a1-factory-6f06f1a0.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181205.006-factory-96b23504.zip
+https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181205.006.a1-factory-99bead33.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.030-factory-d6fefe86.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.031-factory-3df41a2b.zip
 https://dl.google.com/dl/android/aosp/blueline-pq1a.181105.017.a1-factory-b00ec7b5.zip
 https://dl.google.com/dl/android/aosp/blueline-pq1a.181205.006-factory-af1829a6.zip
+https://dl.google.com/dl/android/aosp/blueline-pq1a.181205.006.a1-factory-e0442d3b.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.010-factory-c796ddb4.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.011-factory-1b02df7a.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.012-factory-20574403.zip
