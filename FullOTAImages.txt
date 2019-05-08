@@ -1,3 +1,7 @@
+https://dl.google.com/dl/android/aosp/bonito-ota-pd2a.190115.029-c6fe430d.zip
+https://dl.google.com/dl/android/aosp/bonito-ota-pd2a.190115.032-fc8c7aa1.zip
+https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.029-8673a81e.zip
+https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.032-ee012043.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.030-21ac68ff.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.031-e5f99be0.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181105.017.a1-feb712c3.zip

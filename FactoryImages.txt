@@ -1,3 +1,7 @@
+https://dl.google.com/dl/android/aosp/bonito-pd2a.190115.029-factory-aac5b874.zip
+https://dl.google.com/dl/android/aosp/bonito-pd2a.190115.032-factory-18c01bb1.zip
+https://dl.google.com/dl/android/aosp/sargo-pd2a.190115.029-factory-b05c97da.zip
+https://dl.google.com/dl/android/aosp/sargo-pd2a.190115.032-factory-c0068fd4.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.030-factory-38b1b90a.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.031-factory-7e9da376.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181105.017.a1-factory-6f06f1a0.zip
