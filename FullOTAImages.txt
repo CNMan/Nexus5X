@@ -268,7 +268,7 @@ https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190205.001-a58d5b63.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190305.001-4249e16e.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190405.001-04309443.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190505.001-6e803b27.zip
-https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190605.003-f8774edd.zip
+https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190605.003-981d8735.zip
 https://dl.google.com/dl/android/aosp//angler-ota-mhc19q-b9ac826b.zip
 https://dl.google.com/dl/android/aosp/angler-ota-mtc19t-0884ae89.zip
 https://dl.google.com/dl/android/aosp/angler-ota-mtc19v-cb7d5b1c.zip

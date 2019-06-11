@@ -272,7 +272,7 @@ https://dl.google.com/dl/android/aosp/ryu-opm8.190205.001-factory-84f16195.zip
 https://dl.google.com/dl/android/aosp/ryu-opm8.190305.001-factory-0d59fffd.zip
 https://dl.google.com/dl/android/aosp/ryu-opm8.190405.001-factory-08674d7b.zip
 https://dl.google.com/dl/android/aosp/ryu-opm8.190505.001-factory-d6019509.zip
-https://dl.google.com/dl/android/aosp/ryu-opm8.190605.003-factory-06a74372.zip
+https://dl.google.com/dl/android/aosp/ryu-opm8.190605.003-factory-4548e81b.zip
 https://dl.google.com/dl/android/aosp/angler-mda89d-factory-9f001626.zip
 https://dl.google.com/dl/android/aosp/angler-mdb08k-factory-46550886.zip
 https://dl.google.com/dl/android/aosp/angler-mdb08l-factory-bb060be5.zip
