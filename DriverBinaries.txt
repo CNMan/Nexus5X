@@ -707,6 +707,8 @@ https://dl.google.com/dl/android/aosp/google_devices-dragon-opm8.190505.001-1bea
 https://dl.google.com/dl/android/aosp/nvidia-dragon-opm8.190505.001-232116cf.tgz
 https://dl.google.com/dl/android/aosp/google_devices-dragon-opm8.190605.003-d4666eaf.tgz
 https://dl.google.com/dl/android/aosp/nvidia-dragon-opm8.190605.003-fa1a5476.tgz
+https://dl.google.com/dl/android/aosp/google_devices-dragon-opm8.190605.005-6958ccd6.tgz
+https://dl.google.com/dl/android/aosp/nvidia-dragon-opm8.190605.005-11416e97.tgz
 https://dl.google.com/dl/android/aosp/broadcom-shamu-lrx21o-c5b4b7b3.tgz
 https://dl.google.com/dl/android/aosp/moto-shamu-lrx21o-07a0a5f4.tgz
 https://dl.google.com/dl/android/aosp/qcom-shamu-lrx21o-6c2fd35c.tgz
