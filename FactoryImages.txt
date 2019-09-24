@@ -5,6 +5,7 @@ https://dl.google.com/dl/android/aosp/bonito-pq3b.190705.003-factory-db56e533.zi
 https://dl.google.com/dl/android/aosp/bonito-pq3b.190801.002-factory-61a2836d.zip
 https://dl.google.com/dl/android/aosp/bonito-qp1a.190711.019-factory-1c773c29.zip
 https://dl.google.com/dl/android/aosp/bonito-qp1a.190711.020-factory-1f47c677.zip
+https://dl.google.com/dl/android/aosp/bonito-qp1a.190711.020.c3-factory-ffac7a4a.zip
 https://dl.google.com/dl/android/aosp/sargo-pd2a.190115.029-factory-b05c97da.zip
 https://dl.google.com/dl/android/aosp/sargo-pd2a.190115.032-factory-c0068fd4.zip
 https://dl.google.com/dl/android/aosp/sargo-pq3b.190605.006-factory-81f898b7.zip
@@ -12,6 +13,7 @@ https://dl.google.com/dl/android/aosp/sargo-pq3b.190705.003-factory-55d7c2c4.zip
 https://dl.google.com/dl/android/aosp/sargo-pq3b.190801.002-factory-56817dc2.zip
 https://dl.google.com/dl/android/aosp/sargo-qp1a.190711.019-factory-585217b6.zip
 https://dl.google.com/dl/android/aosp/sargo-qp1a.190711.020-factory-afb4dbc1.zip
+https://dl.google.com/dl/android/aosp/sargo-qp1a.190711.020.c3-factory-2037b552.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.030-factory-38b1b90a.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.031-factory-7e9da376.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181105.017.a1-factory-6f06f1a0.zip
@@ -28,6 +30,7 @@ https://dl.google.com/dl/android/aosp/crosshatch-pq3a.190705.003-factory-e59cf7a
 https://dl.google.com/dl/android/aosp/crosshatch-pq3a.190801.002-factory-15db810d.zip
 https://dl.google.com/dl/android/aosp/crosshatch-qp1a.190711.019-factory-130c70be.zip
 https://dl.google.com/dl/android/aosp/crosshatch-qp1a.190711.020-factory-2eae0727.zip
+https://dl.google.com/dl/android/aosp/crosshatch-qp1a.190711.020.c3-factory-59b11ce9.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.030-factory-d6fefe86.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.031-factory-3df41a2b.zip
 https://dl.google.com/dl/android/aosp/blueline-pq1a.181105.017.a1-factory-b00ec7b5.zip
@@ -44,6 +47,7 @@ https://dl.google.com/dl/android/aosp/blueline-pq3a.190705.003-factory-c14bfb79.
 https://dl.google.com/dl/android/aosp/blueline-pq3a.190801.002-factory-f3d66c49.zip
 https://dl.google.com/dl/android/aosp/blueline-qp1a.190711.019-factory-434cc9b1.zip
 https://dl.google.com/dl/android/aosp/blueline-qp1a.190711.020-factory-b5633fdf.zip
+https://dl.google.com/dl/android/aosp/blueline-qp1a.190711.020.c3-factory-1996b3cf.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.010-factory-c796ddb4.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.011-factory-1b02df7a.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.012-factory-20574403.zip

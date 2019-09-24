@@ -5,6 +5,7 @@ https://dl.google.com/dl/android/aosp/bonito-ota-pq3b.190705.003-b3537a1e.zip
 https://dl.google.com/dl/android/aosp/bonito-ota-pq3b.190801.002-dd8e0f64.zip
 https://dl.google.com/dl/android/aosp/bonito-ota-qp1a.190711.019-c7421402.zip
 https://dl.google.com/dl/android/aosp/bonito-ota-qp1a.190711.020-8bd45d8f.zip
+https://dl.google.com/dl/android/aosp/bonito-ota-qp1a.190711.020.c3-b5809441.zip
 https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.029-8673a81e.zip
 https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.032-ee012043.zip
 https://dl.google.com/dl/android/aosp/sargo-ota-pq3b.190605.006-45ff7e3e.zip
@@ -12,6 +13,7 @@ https://dl.google.com/dl/android/aosp/sargo-ota-pq3b.190705.003-4ea924d2.zip
 https://dl.google.com/dl/android/aosp/sargo-ota-pq3b.190801.002-b79bd724.zip
 https://dl.google.com/dl/android/aosp/sargo-ota-qp1a.190711.019-5802831d.zip
 https://dl.google.com/dl/android/aosp/sargo-ota-qp1a.190711.020-9118616c.zip
+https://dl.google.com/dl/android/aosp/sargo-ota-qp1a.190711.020.c3-aaaebf26.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.030-21ac68ff.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.031-e5f99be0.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181105.017.a1-feb712c3.zip
@@ -28,6 +30,7 @@ https://dl.google.com/dl/android/aosp/crosshatch-ota-pq3a.190705.003-f729fb6d.zi
 https://dl.google.com/dl/android/aosp/crosshatch-ota-pq3a.190801.002-13edb921.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-qp1a.190711.019-41b28ca0.zip
 https://dl.google.com/dl/android/aosp/crosshatch-ota-qp1a.190711.020-de9a52d3.zip
+https://dl.google.com/dl/android/aosp/crosshatch-ota-qp1a.190711.020.c3-7a561c10.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.030-1d5a4f8d.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.031-60fa3eba.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pq1a.181105.017.a1-7f2186c3.zip
@@ -44,6 +47,7 @@ https://dl.google.com/dl/android/aosp/blueline-ota-pq3a.190705.003-357e439d.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-pq3a.190801.002-bfe406f6.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-qp1a.190711.019-a34e2f5c.zip
 https://dl.google.com/dl/android/aosp/blueline-ota-qp1a.190711.020-45595425.zip
+https://dl.google.com/dl/android/aosp/blueline-ota-qp1a.190711.020.c3-87316d6e.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.010-825664c4.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.011-797ba455.zip
 https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.012-c726c936.zip
