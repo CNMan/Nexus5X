@@ -14,6 +14,8 @@ https://dl.google.com/dl/android/aosp/google_devices-bonito-qp1a.190711.020-f3d9
 https://dl.google.com/dl/android/aosp/qcom-bonito-qp1a.190711.020-6e0ffa86.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bonito-qp1a.190711.020.c3-6dbce4de.tgz
 https://dl.google.com/dl/android/aosp/qcom-bonito-qp1a.190711.020.c3-7aba6ba6.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bonito-qp1a.191005.007-fc3c73b5.tgz
+https://dl.google.com/dl/android/aosp/qcom-bonito-qp1a.191005.007-7da0ecbd.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sargo-pd2a.190115.029-338f4e68.tgz
 https://dl.google.com/dl/android/aosp/qcom-sargo-pd2a.190115.029-c3d0c126.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sargo-pd2a.190115.032-04ca3202.tgz
@@ -30,6 +32,8 @@ https://dl.google.com/dl/android/aosp/google_devices-sargo-qp1a.190711.020-84e6f
 https://dl.google.com/dl/android/aosp/qcom-sargo-qp1a.190711.020-3dfe91e8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sargo-qp1a.190711.020.c3-f4b6daf9.tgz
 https://dl.google.com/dl/android/aosp/qcom-sargo-qp1a.190711.020.c3-7729bad7.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sargo-qp1a.191005.007-ad5eb01e.tgz
+https://dl.google.com/dl/android/aosp/qcom-sargo-qp1a.191005.007-6203bdff.tgz
 https://dl.google.com/dl/android/aosp/google_devices-crosshatch-pd1a.180720.030-d85db144.tgz
 https://dl.google.com/dl/android/aosp/qcom-crosshatch-pd1a.180720.030-bf86f269.tgz
 https://dl.google.com/dl/android/aosp/google_devices-crosshatch-pd1a.180720.031-89f53dd8.tgz
@@ -64,6 +68,8 @@ https://dl.google.com/dl/android/aosp/google_devices-crosshatch-qp1a.190711.020-
 https://dl.google.com/dl/android/aosp/qcom-crosshatch-qp1a.190711.020-f44a22d8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-crosshatch-qp1a.190711.020.c3-aa68477e.tgz
 https://dl.google.com/dl/android/aosp/qcom-crosshatch-qp1a.190711.020.c3-7a73ceb2.tgz
+https://dl.google.com/dl/android/aosp/google_devices-crosshatch-qp1a.191005.007-38c655a4.tgz
+https://dl.google.com/dl/android/aosp/qcom-crosshatch-qp1a.191005.007-90b9c9e4.tgz
 https://dl.google.com/dl/android/aosp/google_devices-blueline-pd1a.180720.030-c47f3403.tgz
 https://dl.google.com/dl/android/aosp/qcom-blueline-pd1a.180720.030-e30f765a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-blueline-pd1a.180720.031-940f6fba.tgz
@@ -98,6 +104,8 @@ https://dl.google.com/dl/android/aosp/google_devices-blueline-qp1a.190711.020-1e
 https://dl.google.com/dl/android/aosp/qcom-blueline-qp1a.190711.020-fa3a35b0.tgz
 https://dl.google.com/dl/android/aosp/google_devices-blueline-qp1a.190711.020.c3-f0b0e38c.tgz
 https://dl.google.com/dl/android/aosp/qcom-blueline-qp1a.190711.020.c3-7508a68c.tgz
+https://dl.google.com/dl/android/aosp/google_devices-blueline-qp1a.191005.007-14f53350.tgz
+https://dl.google.com/dl/android/aosp/qcom-blueline-qp1a.191005.007-e02fb8b9.tgz
 https://dl.google.com/dl/android/aosp/google_devices-taimen-opd1.170816.010-6f251667.tgz
 https://dl.google.com/dl/android/aosp/qcom-taimen-opd1.170816.010-08580d0f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-taimen-opd1.170816.011-32969266.tgz
@@ -170,6 +178,8 @@ https://dl.google.com/dl/android/aosp/google_devices-taimen-qp1a.190711.019-8a9a
 https://dl.google.com/dl/android/aosp/qcom-taimen-qp1a.190711.019-f5dfb615.tgz
 https://dl.google.com/dl/android/aosp/google_devices-taimen-qp1a.190711.020-baa894dd.tgz
 https://dl.google.com/dl/android/aosp/qcom-taimen-qp1a.190711.020-1d440636.tgz
+https://dl.google.com/dl/android/aosp/google_devices-taimen-qp1a.191005.007.a1-f474d052.tgz
+https://dl.google.com/dl/android/aosp/qcom-taimen-qp1a.191005.007.a1-7bea198a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-walleye-opd1.170816.010-35f13b5b.tgz
 https://dl.google.com/dl/android/aosp/qcom-walleye-opd1.170816.010-51c4cf89.tgz
 https://dl.google.com/dl/android/aosp/google_devices-walleye-opd1.170816.011-ff614951.tgz
@@ -250,6 +260,8 @@ https://dl.google.com/dl/android/aosp/google_devices-walleye-qp1a.190711.019-2c6
 https://dl.google.com/dl/android/aosp/qcom-walleye-qp1a.190711.019-9412d6fc.tgz
 https://dl.google.com/dl/android/aosp/google_devices-walleye-qp1a.190711.020-e70fb8cd.tgz
 https://dl.google.com/dl/android/aosp/qcom-walleye-qp1a.190711.020-cf876d9a.tgz
+https://dl.google.com/dl/android/aosp/google_devices-walleye-qp1a.191005.007.a1-2003493a.tgz
+https://dl.google.com/dl/android/aosp/qcom-walleye-qp1a.191005.007.a1-1dc09899.tgz
 https://dl.google.com/dl/android/aosp/google_devices-marlin-nde63p-5058f8b6.tgz
 https://dl.google.com/dl/android/aosp/qcom-marlin-nde63p-aacc7d00.tgz
 https://dl.google.com/dl/android/aosp/google_devices-marlin-nde63u-b014f965.tgz
@@ -386,6 +398,8 @@ https://dl.google.com/dl/android/aosp/google_devices-marlin-qp1a.190711.019-9f58
 https://dl.google.com/dl/android/aosp/qcom-marlin-qp1a.190711.019-4394281d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-marlin-qp1a.190711.020-62a87646.tgz
 https://dl.google.com/dl/android/aosp/qcom-marlin-qp1a.190711.020-2b9bc5b4.tgz
+https://dl.google.com/dl/android/aosp/google_devices-marlin-qp1a.191005.007.a1-ee9881a1.tgz
+https://dl.google.com/dl/android/aosp/qcom-marlin-qp1a.191005.007.a1-6e144dc1.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-nde63p-c36cb625.tgz
 https://dl.google.com/dl/android/aosp/qcom-sailfish-nde63p-50a5f1e0.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-nde63u-83a7b9d9.tgz
@@ -522,6 +536,8 @@ https://dl.google.com/dl/android/aosp/google_devices-sailfish-qp1a.190711.019-a7
 https://dl.google.com/dl/android/aosp/qcom-sailfish-qp1a.190711.019-a2f14717.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sailfish-qp1a.190711.020-54ba367f.tgz
 https://dl.google.com/dl/android/aosp/qcom-sailfish-qp1a.190711.020-7639d076.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sailfish-qp1a.191005.007.a1-e42a3654.tgz
+https://dl.google.com/dl/android/aosp/qcom-sailfish-qp1a.191005.007.a1-dca077a1.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-nmf26f-4bfa9336.tgz
 https://dl.google.com/dl/android/aosp/qcom-angler-nmf26f-bc490eff.tgz
 https://dl.google.com/dl/android/aosp/huawei-angler-n4f26i-05dd76f7.tgz
