@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.020-factory-c3ea1715.zip
+https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.021.a1-factory-cd18efdf.zip
+https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.020-factory-97d5c03f.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.024.a1-factory-2e462cf3.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.027-factory-f137d3d1.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200805.001-factory-99540370.zip
