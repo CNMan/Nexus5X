@@ -1,3 +1,5 @@
+https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.006-factory-619b07d2.zip
+https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.020-factory-c3ea1715.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.020.a1-factory-7ac5ecfc.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.021.a1-factory-cd18efdf.zip
@@ -22,6 +24,7 @@ https://dl.google.com/dl/android/aosp/redfin-rq2a.210405.005-factory-ddb75a1f.zi
 https://dl.google.com/dl/android/aosp/redfin-rq2a.210505.003-factory-52f13c48.zip
 https://dl.google.com/dl/android/aosp/redfin-rq3a.210605.005-factory-ab2bb3bb.zip
 https://dl.google.com/dl/android/aosp/redfin-rq3a.210705.001-factory-0d97c703.zip
+https://dl.google.com/dl/android/aosp/redfin-rq3a.210805.001.a1-factory-8675636d.zip
 https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.020-factory-97d5c03f.zip
 https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.021.a1-factory-d557c59e.zip
 https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.021.b3-factory-5e1f7af4.zip
@@ -45,6 +48,7 @@ https://dl.google.com/dl/android/aosp/bramble-rq2a.210405.005-factory-092bbed1.z
 https://dl.google.com/dl/android/aosp/bramble-rq2a.210505.003-factory-0ff3e0bf.zip
 https://dl.google.com/dl/android/aosp/bramble-rq3a.210605.005-factory-7818928d.zip
 https://dl.google.com/dl/android/aosp/bramble-rq3a.210705.001-factory-67bacfc3.zip
+https://dl.google.com/dl/android/aosp/bramble-rq3a.210805.001.a1-factory-9fda0a3e.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.024.a1-factory-2e462cf3.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.027-factory-f137d3d1.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200805.001-factory-99540370.zip
@@ -62,6 +66,7 @@ https://dl.google.com/dl/android/aosp/sunfish-rq2a.210405.005-factory-ab0ba039.z
 https://dl.google.com/dl/android/aosp/sunfish-rq2a.210505.002-factory-30079813.zip
 https://dl.google.com/dl/android/aosp/sunfish-rq3a.210605.005-factory-be541467.zip
 https://dl.google.com/dl/android/aosp/sunfish-rq3a.210705.001-factory-51f6d2ad.zip
+https://dl.google.com/dl/android/aosp/sunfish-rq3a.210805.001.a1-factory-551be12c.zip
 https://dl.google.com/dl/android/aosp/coral-qd1a.190821.007-factory-e915f51a.zip
 https://dl.google.com/dl/android/aosp/coral-qd1a.190821.011-factory-6dbd28f3.zip
 https://dl.google.com/dl/android/aosp/coral-qd1a.190821.011.c4-factory-6a29be3b.zip
@@ -98,6 +103,7 @@ https://dl.google.com/dl/android/aosp/coral-rq2a.210405.005-factory-eba0f8e1.zip
 https://dl.google.com/dl/android/aosp/coral-rq2a.210505.002-factory-0ec4212f.zip
 https://dl.google.com/dl/android/aosp/coral-rq3a.210605.005-factory-31d8d230.zip
 https://dl.google.com/dl/android/aosp/coral-rq3a.210705.001-factory-a51415bb.zip
+https://dl.google.com/dl/android/aosp/coral-rq3a.210805.001.a1-factory-d1df0406.zip
 https://dl.google.com/dl/android/aosp/flame-qd1a.190821.007-factory-04b0499d.zip
 https://dl.google.com/dl/android/aosp/flame-qd1a.190821.011-factory-f4d0cfd1.zip
 https://dl.google.com/dl/android/aosp/flame-qd1a.190821.011.c4-factory-dd397091.zip
@@ -134,6 +140,7 @@ https://dl.google.com/dl/android/aosp/flame-rq2a.210405.005-factory-d3efc764.zip
 https://dl.google.com/dl/android/aosp/flame-rq2a.210505.002-factory-ceca25cb.zip
 https://dl.google.com/dl/android/aosp/flame-rq3a.210605.005-factory-ab936588.zip
 https://dl.google.com/dl/android/aosp/flame-rq3a.210705.001-factory-545bb567.zip
+https://dl.google.com/dl/android/aosp/flame-rq3a.210805.001.a1-factory-88f9fe84.zip
 https://dl.google.com/dl/android/aosp/bonito-pd2a.190115.029-factory-aac5b874.zip
 https://dl.google.com/dl/android/aosp/bonito-pd2a.190115.032-factory-18c01bb1.zip
 https://dl.google.com/dl/android/aosp/bonito-pq3b.190605.006-factory-8677ce70.zip
@@ -166,6 +173,7 @@ https://dl.google.com/dl/android/aosp/bonito-rq2a.210405.005-factory-37d05dc2.zi
 https://dl.google.com/dl/android/aosp/bonito-rq2a.210505.002-factory-eca5fd06.zip
 https://dl.google.com/dl/android/aosp/bonito-rq3a.210605.005-factory-66210064.zip
 https://dl.google.com/dl/android/aosp/bonito-rq3a.210705.001-factory-5d1f2940.zip
+https://dl.google.com/dl/android/aosp/bonito-rq3a.210805.001.a1-factory-4deed560.zip
 https://dl.google.com/dl/android/aosp/sargo-pd2a.190115.029-factory-b05c97da.zip
 https://dl.google.com/dl/android/aosp/sargo-pd2a.190115.032-factory-c0068fd4.zip
 https://dl.google.com/dl/android/aosp/sargo-pq3b.190605.006-factory-81f898b7.zip
@@ -198,6 +206,7 @@ https://dl.google.com/dl/android/aosp/sargo-rq2a.210405.005-factory-5c82997c.zip
 https://dl.google.com/dl/android/aosp/sargo-rq2a.210505.002-factory-aca757e9.zip
 https://dl.google.com/dl/android/aosp/sargo-rq3a.210605.005-factory-ac1ecfd9.zip
 https://dl.google.com/dl/android/aosp/sargo-rq3a.210705.001-factory-b20022d0.zip
+https://dl.google.com/dl/android/aosp/sargo-rq3a.210805.001.a1-factory-32a5c41f.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.030-factory-38b1b90a.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pd1a.180720.031-factory-7e9da376.zip
 https://dl.google.com/dl/android/aosp/crosshatch-pq1a.181105.017.a1-factory-6f06f1a0.zip
@@ -244,6 +253,7 @@ https://dl.google.com/dl/android/aosp/crosshatch-rq2a.210405.006-factory-07e8d55
 https://dl.google.com/dl/android/aosp/crosshatch-rq2a.210505.002-factory-796587ee.zip
 https://dl.google.com/dl/android/aosp/crosshatch-rq3a.210605.005-factory-46501e19.zip
 https://dl.google.com/dl/android/aosp/crosshatch-rq3a.210705.001-factory-cb8cccb0.zip
+https://dl.google.com/dl/android/aosp/crosshatch-rq3a.210805.001.a1-factory-dcbbb401.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.030-factory-d6fefe86.zip
 https://dl.google.com/dl/android/aosp/blueline-pd1a.180720.031-factory-3df41a2b.zip
 https://dl.google.com/dl/android/aosp/blueline-pq1a.181105.017.a1-factory-b00ec7b5.zip
@@ -290,6 +300,7 @@ https://dl.google.com/dl/android/aosp/blueline-rq2a.210405.006-factory-b694baf0.
 https://dl.google.com/dl/android/aosp/blueline-rq2a.210505.002-factory-687d8468.zip
 https://dl.google.com/dl/android/aosp/blueline-rq3a.210605.005-factory-53820251.zip
 https://dl.google.com/dl/android/aosp/blueline-rq3a.210705.001-factory-adc37858.zip
+https://dl.google.com/dl/android/aosp/blueline-rq3a.210805.001.a1-factory-c2672e81.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.010-factory-c796ddb4.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.011-factory-1b02df7a.zip
 https://dl.google.com/dl/android/aosp/taimen-opd1.170816.012-factory-20574403.zip
