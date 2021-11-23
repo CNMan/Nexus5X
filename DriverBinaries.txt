@@ -4,12 +4,16 @@ https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.c2-d
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.c4-72994038.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.036-0b7fe85d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.036.a8-ec316857.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.037-12db5cf3.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.037.a1-6978ded8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.015.a4-31a5656a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.b1-c05af44d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.c2-3a466808.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.c4-f374aa11.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.036-82ccf50a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.036.a8-03abedb7.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.037-a7c22bf5.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.037.a1-fc28fe0d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.006-22c86344.tgz
 https://dl.google.com/dl/android/aosp/qcom-barbet-rd2a.210605.006-e46aeee2.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.007-2d9f7b7f.tgz
