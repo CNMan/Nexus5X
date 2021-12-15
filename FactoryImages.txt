@@ -6,6 +6,9 @@ https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.036-factory-297ee25a.zi
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.036.a8-factory-65854912.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.037-factory-ae9f34e0.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.037.a1-factory-de27b0ae.zip
+https://dl.google.com/dl/android/aosp/oriole-sq1d.211205.016.a1-factory-f588dce8.zip
+https://dl.google.com/dl/android/aosp/oriole-sq1d.211205.016.a4-factory-a01693e3.zip
+https://dl.google.com/dl/android/aosp/oriole-sq1d.211205.017-factory-2d49905c.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.015.a4-factory-bd6cb030.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.b1-factory-e74172d8.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.c2-factory-618ef258.zip
@@ -14,6 +17,9 @@ https://dl.google.com/dl/android/aosp/raven-sd1a.210817.036-factory-1f526c9b.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.036.a8-factory-7352ca24.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.037-factory-0827bca4.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.037.a1-factory-0245a00a.zip
+https://dl.google.com/dl/android/aosp/raven-sq1d.211205.016.a1-factory-86d212b2.zip
+https://dl.google.com/dl/android/aosp/raven-sq1d.211205.016.a4-factory-bbeea871.zip
+https://dl.google.com/dl/android/aosp/raven-sq1d.211205.017-factory-bf3da4b2.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.006-factory-619b07d2.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210905.002-factory-923343d0.zip
