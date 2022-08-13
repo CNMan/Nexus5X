@@ -1,3 +1,11 @@
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.001.a1-factory-16c3fe1c.zip
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.004-factory-5ecedd46.zip
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.002-factory-928c0c46.zip
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.003-factory-96c1bea8.zip
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.002.b1-factory-5757bf74.zip
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.001.b1-factory-af00d48d.zip
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.003.b1-factory-79324336.zip
+https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.004.b2-factory-beedcf39.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.b1-factory-1309fcfa.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.c2-factory-b1907625.zip
@@ -17,6 +25,10 @@ https://dl.google.com/dl/android/aosp/oriole-sq3a.220605.009.b1-factory-80f98167
 https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.001.b1-factory-1e87de1b.zip
 https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.003-factory-4ec7503a.zip
 https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.003.a1-factory-66e78a21.zip
+https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.003.a3-factory-a9bb7750.zip
+https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.004.a1-factory-1fb143dd.zip
+https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.004-factory-b6f37423.zip
+https://dl.google.com/dl/android/aosp/oriole-sq3a.220705.001.b2-factory-acf55813.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.015.a4-factory-bd6cb030.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.b1-factory-e74172d8.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.c2-factory-618ef258.zip
@@ -36,6 +48,10 @@ https://dl.google.com/dl/android/aosp/raven-sq3a.220605.009.b1-factory-157e2284.
 https://dl.google.com/dl/android/aosp/raven-sq3a.220705.001.b1-factory-07f684fc.zip
 https://dl.google.com/dl/android/aosp/raven-sq3a.220705.003-factory-1c48ad3e.zip
 https://dl.google.com/dl/android/aosp/raven-sq3a.220705.003.a1-factory-152f6a65.zip
+https://dl.google.com/dl/android/aosp/raven-sq3a.220705.003.a3-factory-5651ee94.zip
+https://dl.google.com/dl/android/aosp/raven-sq3a.220705.004.a1-factory-6b60f5a6.zip
+https://dl.google.com/dl/android/aosp/raven-sq3a.220705.004-factory-112d4f32.zip
+https://dl.google.com/dl/android/aosp/raven-sq3a.220705.001.b2-factory-2ee23ef4.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.006-factory-619b07d2.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210905.002-factory-923343d0.zip

@@ -1,3 +1,11 @@
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.001.a1-0145bbe6.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.004-7c778415.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.002-1e7dd329.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.003-94980bd4.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.002.b1-11de82cc.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.001.b1-5866a9af.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.003.b1-94aa047e.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.004.b2-13292478.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.015.a4-b4ec71a4.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.b1-f4f0d010.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.c2-d05b2fa5.tgz
@@ -21,6 +29,10 @@ https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220605.009.b1-1
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.001.b1-8f39f3f0.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.003-e84d9658.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.003.a1-f6fe538f.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.003.a3-f71557ff.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.004.a1-f88a7a1f.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.004-d1fa68fb.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.001.b2-f0b4ace1.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.015.a4-31a5656a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.b1-c05af44d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.c2-3a466808.tgz
@@ -44,6 +56,10 @@ https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220605.009.b1-6d
 https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.001.b1-0a8f9af3.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.003-490f8f67.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.003.a1-a4970437.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.003.a3-7b9e23a9.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.004.a1-a1d175aa.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.004-6f0d720b.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.001.b2-ceba424f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.006-22c86344.tgz
 https://dl.google.com/dl/android/aosp/qcom-barbet-rd2a.210605.006-e46aeee2.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.007-2d9f7b7f.tgz
