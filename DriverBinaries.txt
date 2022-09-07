@@ -6,6 +6,7 @@ https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.002.b1-
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.001.b1-5866a9af.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.003.b1-94aa047e.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.004.b2-13292478.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-tp1a.220624.021.a1-f3edb59a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.015.a4-b4ec71a4.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.b1-f4f0d010.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.c2-d05b2fa5.tgz
@@ -33,6 +34,8 @@ https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.003.a3-f
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.004.a1-f88a7a1f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.004-d1fa68fb.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sq3a.220705.001.b2-f0b4ace1.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-tp1a.220624.021-a4c4e70d.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-tp1a.220905.004-c30fa159.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.015.a4-31a5656a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.b1-c05af44d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.c2-3a466808.tgz
@@ -60,6 +63,8 @@ https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.003.a3-7b
 https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.004.a1-a1d175aa.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.004-6f0d720b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sq3a.220705.001.b2-ceba424f.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-tp1a.220624.021-e3aebf91.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-tp1a.220905.004-916490a2.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.006-22c86344.tgz
 https://dl.google.com/dl/android/aosp/qcom-barbet-rd2a.210605.006-e46aeee2.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.007-2d9f7b7f.tgz
@@ -96,6 +101,10 @@ https://dl.google.com/dl/android/aosp/google_devices-barbet-sq3a.220605.009.a1-8
 https://dl.google.com/dl/android/aosp/qcom-barbet-sq3a.220605.009.a1-d6224e22.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-sq3a.220705.003.a1-8531789e.tgz
 https://dl.google.com/dl/android/aosp/qcom-barbet-sq3a.220705.003.a1-81ed51b4.tgz
+https://dl.google.com/dl/android/aosp/google_devices-barbet-tp1a.220624.014-9970d988.tgz
+https://dl.google.com/dl/android/aosp/qcom-barbet-tp1a.220624.014-62d175d7.tgz
+https://dl.google.com/dl/android/aosp/google_devices-barbet-tp1a.220905.004-c5a81561.tgz
+https://dl.google.com/dl/android/aosp/qcom-barbet-tp1a.220905.004-ffb8b56a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-redfin-rd1a.200810.020-3940ace1.tgz
 https://dl.google.com/dl/android/aosp/qcom-redfin-rd1a.200810.020-e99cf7f8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-redfin-rd1a.200810.021.a1-eb77b8d5.tgz
@@ -176,6 +185,10 @@ https://dl.google.com/dl/android/aosp/google_devices-redfin-sq3a.220605.009.a1-6
 https://dl.google.com/dl/android/aosp/qcom-redfin-sq3a.220605.009.a1-93d0b772.tgz
 https://dl.google.com/dl/android/aosp/google_devices-redfin-sq3a.220705.003.a1-3b9815c2.tgz
 https://dl.google.com/dl/android/aosp/qcom-redfin-sq3a.220705.003.a1-8e4438cf.tgz
+https://dl.google.com/dl/android/aosp/google_devices-redfin-tp1a.220624.014-ff9a8cc0.tgz
+https://dl.google.com/dl/android/aosp/qcom-redfin-tp1a.220624.014-41d66d5a.tgz
+https://dl.google.com/dl/android/aosp/google_devices-redfin-tp1a.220905.004-64ac7d4e.tgz
+https://dl.google.com/dl/android/aosp/qcom-redfin-tp1a.220905.004-7558cc05.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.020-f048d12c.tgz
 https://dl.google.com/dl/android/aosp/qcom-bramble-rd1a.200810.020-e154fb1c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.021.a1-4b2dfbbc.tgz
@@ -260,6 +273,10 @@ https://dl.google.com/dl/android/aosp/google_devices-bramble-sq3a.220605.009.a1-
 https://dl.google.com/dl/android/aosp/qcom-bramble-sq3a.220605.009.a1-95ae90b5.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-sq3a.220705.003.a1-eec8c414.tgz
 https://dl.google.com/dl/android/aosp/qcom-bramble-sq3a.220705.003.a1-87eabc4b.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bramble-tp1a.220624.014-48bc6528.tgz
+https://dl.google.com/dl/android/aosp/qcom-bramble-tp1a.220624.014-c4dad827.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bramble-tp1a.220905.004-b3bb1ee3.tgz
+https://dl.google.com/dl/android/aosp/qcom-bramble-tp1a.220905.004-c921c0a3.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sunfish-qd4a.200317.024.a1-44c42f0b.tgz
 https://dl.google.com/dl/android/aosp/qcom-sunfish-qd4a.200317.024.a1-c551c921.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sunfish-qd4a.200317.027-35d50112.tgz
@@ -326,6 +343,10 @@ https://dl.google.com/dl/android/aosp/google_devices-sunfish-sq3a.220605.009.a1-
 https://dl.google.com/dl/android/aosp/qcom-sunfish-sq3a.220605.009.a1-0b9eea8e.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sunfish-sq3a.220705.003.a1-8cbdb344.tgz
 https://dl.google.com/dl/android/aosp/qcom-sunfish-sq3a.220705.003.a1-34e47090.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sunfish-tp1a.220624.014-72659229.tgz
+https://dl.google.com/dl/android/aosp/qcom-sunfish-tp1a.220624.014-b4be347f.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sunfish-tp1a.220905.004-40af631c.tgz
+https://dl.google.com/dl/android/aosp/qcom-sunfish-tp1a.220905.004-2ff00f9c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-coral-qd1a.190821.007-b27ff668.tgz
 https://dl.google.com/dl/android/aosp/qcom-coral-qd1a.190821.007-d21b5aaf.tgz
 https://dl.google.com/dl/android/aosp/google_devices-coral-qd1a.190821.011-fb3dfdc8.tgz
@@ -430,6 +451,10 @@ https://dl.google.com/dl/android/aosp/google_devices-coral-sq3a.220605.009.a1-b7
 https://dl.google.com/dl/android/aosp/qcom-coral-sq3a.220605.009.a1-279e4474.tgz
 https://dl.google.com/dl/android/aosp/google_devices-coral-sq3a.220705.003.a1-7c737377.tgz
 https://dl.google.com/dl/android/aosp/qcom-coral-sq3a.220705.003.a1-bd52ab17.tgz
+https://dl.google.com/dl/android/aosp/google_devices-coral-tp1a.220624.014-d1e57e62.tgz
+https://dl.google.com/dl/android/aosp/qcom-coral-tp1a.220624.014-7a1059d3.tgz
+https://dl.google.com/dl/android/aosp/google_devices-coral-tp1a.220905.004-62240e03.tgz
+https://dl.google.com/dl/android/aosp/qcom-coral-tp1a.220905.004-0f629cb7.tgz
 https://dl.google.com/dl/android/aosp/google_devices-flame-qd1a.190821.007-2a6a603e.tgz
 https://dl.google.com/dl/android/aosp/qcom-flame-qd1a.190821.007-54118c11.tgz
 https://dl.google.com/dl/android/aosp/google_devices-flame-qd1a.190821.011-c56bcdba.tgz
@@ -534,6 +559,10 @@ https://dl.google.com/dl/android/aosp/google_devices-flame-sq3a.220605.009.a1-d4
 https://dl.google.com/dl/android/aosp/qcom-flame-sq3a.220605.009.a1-81e66132.tgz
 https://dl.google.com/dl/android/aosp/google_devices-flame-sq3a.220705.003.a1-f7055a83.tgz
 https://dl.google.com/dl/android/aosp/qcom-flame-sq3a.220705.003.a1-f11cbfb0.tgz
+https://dl.google.com/dl/android/aosp/google_devices-flame-tp1a.220624.014-7a64d79d.tgz
+https://dl.google.com/dl/android/aosp/qcom-flame-tp1a.220624.014-edc2da61.tgz
+https://dl.google.com/dl/android/aosp/google_devices-flame-tp1a.220905.004-549b3e61.tgz
+https://dl.google.com/dl/android/aosp/qcom-flame-tp1a.220905.004-04aa8af7.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bonito-pd2a.190115.029-c43be085.tgz
 https://dl.google.com/dl/android/aosp/qcom-bonito-pd2a.190115.029-e5c2e08b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bonito-pd2a.190115.032-ae64cab7.tgz
@@ -626,6 +655,8 @@ https://dl.google.com/dl/android/aosp/google_devices-bonito-sp2a.220505.002-fd35
 https://dl.google.com/dl/android/aosp/qcom-bonito-sp2a.220505.002-8f995508.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bonito-sp2a.220505.006-033597eb.tgz
 https://dl.google.com/dl/android/aosp/qcom-bonito-sp2a.220505.006-490c06d3.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bonito-sp2a.220505.008-38e61d43.tgz
+https://dl.google.com/dl/android/aosp/qcom-bonito-sp2a.220505.008-fb8d4554.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sargo-pd2a.190115.029-338f4e68.tgz
 https://dl.google.com/dl/android/aosp/qcom-sargo-pd2a.190115.029-c3d0c126.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sargo-pd2a.190115.032-04ca3202.tgz
@@ -718,6 +749,8 @@ https://dl.google.com/dl/android/aosp/google_devices-sargo-sp2a.220505.002-9c800
 https://dl.google.com/dl/android/aosp/qcom-sargo-sp2a.220505.002-c7ef25c8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sargo-sp2a.220505.006-0e61aaca.tgz
 https://dl.google.com/dl/android/aosp/qcom-sargo-sp2a.220505.006-c59c4dfd.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sargo-sp2a.220505.008-772e1993.tgz
+https://dl.google.com/dl/android/aosp/qcom-sargo-sp2a.220505.008-8c718226.tgz
 https://dl.google.com/dl/android/aosp/google_devices-crosshatch-pd1a.180720.030-d85db144.tgz
 https://dl.google.com/dl/android/aosp/qcom-crosshatch-pd1a.180720.030-bf86f269.tgz
 https://dl.google.com/dl/android/aosp/google_devices-crosshatch-pd1a.180720.031-89f53dd8.tgz
