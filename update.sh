@@ -3,4 +3,4 @@ curl 'https://developers.google.com/android/ota' -H 'User-Agent: Mozilla/5.0 (X1
 curl 'https://developers.google.com/android/drivers' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Referer: https://developers.google.com/android/images' -H 'x-devsite-partial-request: 1' -H 'DNT: 1' -H 'Connection: keep-alive' -H 'Cookie: 1P_JAR=2022-10-04-06; NID=511=P5ZXYOOLFSZCt87_ijqIn_wSB6UXr-i9y1toFDN4W6Acg2MIJFEcvOtAdQHdfBmfa3dJnjr_Xi7dquPnfR6ubtQV-6KYVOolM0alrnrMEx21DFaorAqYq2WSwsMwwIkza2ASt_3lWt7ZSnq7Pf_XxrCemAB41Ovxfo5lbjmVcpQ; AEC=AakniGPWE3q6_Wp9GyHSrjBsRsFboivXYV9EzgY0STsKSADyf2efrrYCeg; _ga_devsite=GA1.3.2687190700.1664872825; django_language=en; devsite_wall_acks=nexus-image-tos,nexus-ota-tos' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-origin' -H 'TE: trailers' | sed 's/"/\n/g' | grep 'dl.google.com' > DriverBinaries.txt
 git add .
 git commit -m "`date`"
-git push origin master
+git push -f origin master
