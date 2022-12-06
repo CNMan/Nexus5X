@@ -4,12 +4,16 @@ https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.031-cd81a567.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.221105.001-aaa230a5.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.221105.003-96668209.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.221105.001.a1-1f08ca38.zip
+https://dl.google.com/dl/android/aosp/cheetah-ota-tq1a.221205.011-23c84042.zip
+https://dl.google.com/dl/android/aosp/cheetah-ota-tq1a.221205.012-c42d9ec4.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a5-44511a4b.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.031-8236abf4.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.221105.001-6f05b2cf.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.221105.003-32ef0dee.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.221105.001.a1-9db72d2f.zip
+https://dl.google.com/dl/android/aosp/panther-ota-tq1a.221205.011-7bdbdb25.zip
+https://dl.google.com/dl/android/aosp/panther-ota-tq1a.221205.012-b5249672.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.002-344f1ec9.zip
@@ -22,6 +26,8 @@ https://dl.google.com/dl/android/aosp/bluejay-ota-tp1a.220624.021.a1-10f43b8b.zi
 https://dl.google.com/dl/android/aosp/bluejay-ota-tp1a.220905.004.a2-1e3ce69c.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-tp1a.221005.003-574bf4cf.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-tp1a.221105.002-1bd63cb3.zip
+https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.221205.011-7a7b0700.zip
+https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.221205.012-82b18cc0.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.c2-1f9d1cdb.zip
@@ -50,6 +56,7 @@ https://dl.google.com/dl/android/aosp/oriole-ota-tp1a.220905.004-2838b370.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-tp1a.220905.004.a1-3c359495.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-tp1a.221005.002-5e69c530.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-tp1a.221105.002-e727d382.zip
+https://dl.google.com/dl/android/aosp/oriole-ota-tq1a.221205.011-92335215.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.c2-fd22bee6.zip
@@ -78,6 +85,7 @@ https://dl.google.com/dl/android/aosp/raven-ota-tp1a.220905.004-6cb0dd16.zip
 https://dl.google.com/dl/android/aosp/raven-ota-tp1a.220905.004.a1-51d01d3b.zip
 https://dl.google.com/dl/android/aosp/raven-ota-tp1a.221005.002-36884de3.zip
 https://dl.google.com/dl/android/aosp/raven-ota-tp1a.221105.002-0508bbb1.zip
+https://dl.google.com/dl/android/aosp/raven-ota-tq1a.221205.011-23332b05.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210905.002-bbb8c72e.zip
@@ -100,6 +108,7 @@ https://dl.google.com/dl/android/aosp/barbet-ota-tp1a.220624.014-502b35c0.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-tp1a.220905.004-68a19815.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-tp1a.221005.002-a247f254.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-tp1a.221105.002-065b2b77.zip
+https://dl.google.com/dl/android/aosp/barbet-ota-tq1a.221205.011-33e40ad5.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.020-7b6b7070.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.020.a1-dd3e34bf.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.021.a1-924eb0a7.zip
@@ -144,6 +153,7 @@ https://dl.google.com/dl/android/aosp/redfin-ota-tp1a.220624.014-3301931b.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-tp1a.220905.004-c1e785e0.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-tp1a.221005.002-e07f4f86.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-tp1a.221105.002-5ef18c52.zip
+https://dl.google.com/dl/android/aosp/redfin-ota-tq1a.221205.011-a4d302b5.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.020-b52f870c.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.021.a1-2d832c1e.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.021.b3-3a708167.zip
@@ -187,6 +197,7 @@ https://dl.google.com/dl/android/aosp/bramble-ota-tp1a.220624.014-2a3dda42.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-tp1a.220905.004-4ba8f540.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-tp1a.221005.002-57a24fd9.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-tp1a.221105.002-3cf7efe1.zip
+https://dl.google.com/dl/android/aosp/bramble-ota-tq1a.221205.011-766eb5ae.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.024.a1-19a394ae.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.027-6c6c95d0.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200805.001-a1256d7f.zip
@@ -224,6 +235,8 @@ https://dl.google.com/dl/android/aosp/sunfish-ota-tp1a.220624.014-296281b7.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-tp1a.220905.004-4e5314c5.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-tp1a.221005.002-305cd73e.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-tp1a.221105.002-7047c381.zip
+https://dl.google.com/dl/android/aosp/sunfish-ota-tq1a.221205.011-6f7e232a.zip
+https://dl.google.com/dl/android/aosp/sunfish-ota-tq1a.221205.011.b1-d8347b6a.zip
 https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.007-a80cd76e.zip
 https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.011-f47dde8c.zip
 https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.011.c4-2d2325db.zip
