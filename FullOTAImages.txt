@@ -881,7 +881,7 @@ https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190405.001-04309443.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190505.001-6e803b27.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190605.003-981d8735.zip
 https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190605.005-079b7ec4.zip
-https://dl.google.com/dl/android/aosp//angler-ota-mhc19q-b9ac826b.zip
+https://dl.google.com/dl/android/aosp/angler-ota-mhc19q-b9ac826b.zip
 https://dl.google.com/dl/android/aosp/angler-ota-mtc19t-0884ae89.zip
 https://dl.google.com/dl/android/aosp/angler-ota-mtc19v-cb7d5b1c.zip
 https://dl.google.com/dl/android/aosp/angler-ota-mtc19x-d3368f48.zip
@@ -926,7 +926,7 @@ https://dl.google.com/dl/android/aosp/angler-ota-opm6.171019.030.k1-fe46175a.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm7.181005.003-b6000627.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm7.181105.004-81e2a4cc.zip
 https://dl.google.com/dl/android/aosp/angler-ota-opm7.181205.001-abb36a2f.zip
-https://dl.google.com/dl/android/aosp//bullhead-ota-mhc19q-8fe67a2b.zip
+https://dl.google.com/dl/android/aosp/bullhead-ota-mhc19q-8fe67a2b.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19t-4ea6522b.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19v-821d513d.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19z-b4cfce2c.zip
@@ -969,7 +969,7 @@ https://dl.google.com/dl/android/aosp/bullhead-ota-opm7.181005.003-94150a78.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm7.181105.004-1520cb0b.zip
 https://dl.google.com/dl/android/aosp/bullhead-ota-opm7.181205.001-b1af2457.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-mmb29x-13c27a19.zip
-https://dl.google.com/dl/android/aosp//hammerhead-ota-mob30d-74ff57bc.zip
+https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30d-74ff57bc.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30h-672f59e1.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30m-1af36a17.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30p-d447411d.zip
@@ -978,7 +978,7 @@ https://dl.google.com/dl/android/aosp/hammerhead-ota-mob31e-284a96a5.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-m4b30x-f2eb90a8.zip
 https://dl.google.com/dl/android/aosp/hammerhead-ota-m4b30z-752c16b1.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-mmb29x-27102553.zip
-https://dl.google.com/dl/android/aosp//shamu-ota-mob30d-6505ca97.zip
+https://dl.google.com/dl/android/aosp/shamu-ota-mob30d-6505ca97.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-mmb30g-ed581061.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-mob30i-c0bdba8e.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-mmb30j-d684d15c.zip
@@ -1018,13 +1018,13 @@ https://dl.google.com/dl/android/aosp/shamu-ota-ngi55d-13b2aa29.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-n6f27m-df27bd83.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-n8i11f-b4de4046.zip
 https://dl.google.com/dl/android/aosp/shamu-ota-ngi77b-0ea2ff80.zip
-https://dl.google.com/dl/android/aosp//razor-ota-mob30d-b7239cf4.zip
+https://dl.google.com/dl/android/aosp/razor-ota-mob30d-b7239cf4.zip
 https://dl.google.com/dl/android/aosp/razor-ota-mob30j-a1d349f7.zip
 https://dl.google.com/dl/android/aosp/razor-ota-mob30m-084c62a1.zip
 https://dl.google.com/dl/android/aosp/razor-ota-mob30p-b41593f4.zip
 https://dl.google.com/dl/android/aosp/razor-ota-mob30x-54635e45.zip
 https://dl.google.com/dl/android/aosp/razorg-ota-mmb29x-f97b2025.zip
-https://dl.google.com/dl/android/aosp//razorg-ota-mob30d-e01d8774.zip
+https://dl.google.com/dl/android/aosp/razorg-ota-mob30d-e01d8774.zip
 https://dl.google.com/dl/android/aosp/razorg-ota-mob30j-469e2683.zip
 https://dl.google.com/dl/android/aosp/razorg-ota-mmb30j-d8a9effa.zip
 https://dl.google.com/dl/android/aosp/razorg-ota-mob30m-2807dc31.zip
@@ -1033,7 +1033,7 @@ https://dl.google.com/dl/android/aosp/razorg-ota-mob30p-2dafc4fb.zip
 https://dl.google.com/dl/android/aosp/razorg-ota-mmb30s-0cfd0b2f.zip
 https://dl.google.com/dl/android/aosp/razorg-ota-mob30x-0b5aa9df.zip
 https://dl.google.com/dl/android/aosp/volantisg-ota-mmb29x-fa4a68a8.zip
-https://dl.google.com/dl/android/aosp//volantisg-ota-mob30d-0339a6a9.zip
+https://dl.google.com/dl/android/aosp/volantisg-ota-mob30d-0339a6a9.zip
 https://dl.google.com/dl/android/aosp/volantisg-ota-mob30g-b2bcd502.zip
 https://dl.google.com/dl/android/aosp/volantisg-ota-mob30m-6e8b9b5e.zip
 https://dl.google.com/dl/android/aosp/volantisg-ota-mob30p-9e4ca547.zip
@@ -1051,7 +1051,7 @@ https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27i-f4d0b76d.zip
 https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27k-90395132.zip
 https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27o-e7d43de7.zip
 https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27p-3616b6a4.zip
-https://dl.google.com/dl/android/aosp//volantis-ota-mob30d-1da7c803.zip
+https://dl.google.com/dl/android/aosp/volantis-ota-mob30d-1da7c803.zip
 https://dl.google.com/dl/android/aosp/volantis-ota-mob30g-555f0865.zip
 https://dl.google.com/dl/android/aosp/volantis-ota-mob30m-738daf66.zip
 https://dl.google.com/dl/android/aosp/volantis-ota-mob30p-0fa39d97.zip
