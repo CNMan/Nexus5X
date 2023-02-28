@@ -277,12 +277,6 @@ https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.201105.003.b1-
 https://dl.google.com/dl/android/aosp/qcom-bramble-rd1a.201105.003.b1-feb34062.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.201105.003.c1-2d47777b.tgz
 https://dl.google.com/dl/android/aosp/qcom-bramble-rd1a.201105.003.c1-10167e8a.tgz
-https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.021.a1-4b2dfbbc.tgz
-https://dl.google.com/dl/android/aosp/qcom-bramble-rd1a.200810.021.a1-c5622cfa.tgz
-https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.021.b3-98fa5863.tgz
-https://dl.google.com/dl/android/aosp/qcom-bramble-rd1a.200810.021.b3-c518d5b5.tgz
-https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.022.a4-ebf5ebfc.tgz
-https://dl.google.com/dl/android/aosp/qcom-bramble-rd1a.200810.022.a4-5db4ffd1.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1b.201105.010-66f8acff.tgz
 https://dl.google.com/dl/android/aosp/qcom-bramble-rd1b.201105.010-cd57b59b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-rq1a.201205.010-5aa2c054.tgz
