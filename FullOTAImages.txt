@@ -45,6 +45,8 @@ https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.221205.012-82b18cc0.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.230105.001.a2-deb3f832.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.230205.001.d2-df8c54e5.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-tq1a.230205.002-1ec64b58.zip
+https://dl.google.com/dl/android/aosp/bluejay-ota-tq2a.230305.008.e1-915f9087.zip
+https://dl.google.com/dl/android/aosp/bluejay-ota-tq2a.230305.008.f1-295d6274.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.c2-1f9d1cdb.zip
@@ -77,6 +79,8 @@ https://dl.google.com/dl/android/aosp/oriole-ota-tq1a.221205.011-92335215.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-tq1a.230105.002-24b2622a.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-tq1a.230205.001.d2-1e9d2029.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-tq1a.230205.002-78790641.zip
+https://dl.google.com/dl/android/aosp/oriole-ota-tq2a.230305.008.e1-cf96ac59.zip
+https://dl.google.com/dl/android/aosp/oriole-ota-tq2a.230305.008.f1-43d2dc22.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.c2-fd22bee6.zip
@@ -109,6 +113,8 @@ https://dl.google.com/dl/android/aosp/raven-ota-tq1a.221205.011-23332b05.zip
 https://dl.google.com/dl/android/aosp/raven-ota-tq1a.230105.002-d2dee04f.zip
 https://dl.google.com/dl/android/aosp/raven-ota-tq1a.230205.001.d2-57910bb4.zip
 https://dl.google.com/dl/android/aosp/raven-ota-tq1a.230205.002-315ebf12.zip
+https://dl.google.com/dl/android/aosp/raven-ota-tq2a.230305.008.e1-59964683.zip
+https://dl.google.com/dl/android/aosp/raven-ota-tq2a.230305.008.f1-371c6635.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210905.002-bbb8c72e.zip
