@@ -14,6 +14,7 @@ https://dl.google.com/dl/android/aosp/cheetah-tq1a.230205.002-factory-4439927e.z
 https://dl.google.com/dl/android/aosp/cheetah-tq2a.230305.008.a3-factory-da1d9915.zip
 https://dl.google.com/dl/android/aosp/cheetah-tq2a.230305.008.c1-factory-cefc4e56.zip
 https://dl.google.com/dl/android/aosp/cheetah-tq2a.230405.003.e1-factory-1f04869e.zip
+https://dl.google.com/dl/android/aosp/cheetah-tq2a.230505.002-factory-fe44ced0.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a2-factory-336ba5c1.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a5-factory-3c42ee81.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.031-factory-2f036a47.zip
@@ -30,6 +31,7 @@ https://dl.google.com/dl/android/aosp/panther-tq1a.230205.002-factory-d504ff3a.z
 https://dl.google.com/dl/android/aosp/panther-tq2a.230305.008-factory-3dcff7d6.zip
 https://dl.google.com/dl/android/aosp/panther-tq2a.230305.008.a1-factory-55e00053.zip
 https://dl.google.com/dl/android/aosp/panther-tq2a.230405.003.e1-factory-ae8e7da5.zip
+https://dl.google.com/dl/android/aosp/panther-tq2a.230505.002-factory-3271ae5c.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.001.a1-factory-16c3fe1c.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.004-factory-5ecedd46.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.002-factory-928c0c46.zip
@@ -51,6 +53,7 @@ https://dl.google.com/dl/android/aosp/bluejay-tq2a.230305.008.e1-factory-3023e8f
 https://dl.google.com/dl/android/aosp/bluejay-tq2a.230305.008.f1-factory-3b64df38.zip
 https://dl.google.com/dl/android/aosp/bluejay-tq2a.230405.003.e1-factory-f21956ab.zip
 https://dl.google.com/dl/android/aosp/bluejay-tq2a.230405.003.g1-factory-2e7be329.zip
+https://dl.google.com/dl/android/aosp/bluejay-tq2a.230505.002-factory-7a58c8b3.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.b1-factory-1309fcfa.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.c2-factory-b1907625.zip
@@ -87,6 +90,7 @@ https://dl.google.com/dl/android/aosp/oriole-tq2a.230305.008.e1-factory-aecde6c4
 https://dl.google.com/dl/android/aosp/oriole-tq2a.230305.008.f1-factory-0d1bd865.zip
 https://dl.google.com/dl/android/aosp/oriole-tq2a.230405.003.e1-factory-e7997d5a.zip
 https://dl.google.com/dl/android/aosp/oriole-tq2a.230405.003.g1-factory-e71c0fe0.zip
+https://dl.google.com/dl/android/aosp/oriole-tq2a.230505.002-factory-6294af63.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.015.a4-factory-bd6cb030.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.b1-factory-e74172d8.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.c2-factory-618ef258.zip
@@ -123,6 +127,7 @@ https://dl.google.com/dl/android/aosp/raven-tq2a.230305.008.e1-factory-def2deef.
 https://dl.google.com/dl/android/aosp/raven-tq2a.230305.008.f1-factory-0d60c5da.zip
 https://dl.google.com/dl/android/aosp/raven-tq2a.230405.003.e1-factory-6cadf298.zip
 https://dl.google.com/dl/android/aosp/raven-tq2a.230405.003.g1-factory-d5e1eab7.zip
+https://dl.google.com/dl/android/aosp/raven-tq2a.230505.002-factory-953c94d1.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.006-factory-619b07d2.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210905.002-factory-923343d0.zip
@@ -154,6 +159,8 @@ https://dl.google.com/dl/android/aosp/barbet-tq2a.230305.008.c1-factory-cc4ce08d
 https://dl.google.com/dl/android/aosp/barbet-tq2a.230405.003-factory-8c94f18d.zip
 https://dl.google.com/dl/android/aosp/barbet-tq2a.230405.003.a2-factory-3288de55.zip
 https://dl.google.com/dl/android/aosp/barbet-tq2a.230405.003.b2-factory-8aa9d5dd.zip
+https://dl.google.com/dl/android/aosp/barbet-tq2a.230505.002-factory-2414c3f3.zip
+https://dl.google.com/dl/android/aosp/barbet-tq2a.230505.002.a1-factory-51d0f7e4.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.020-factory-c3ea1715.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.020.a1-factory-7ac5ecfc.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.021.a1-factory-cd18efdf.zip
@@ -207,6 +214,8 @@ https://dl.google.com/dl/android/aosp/redfin-tq2a.230305.008.c1-factory-666e725c
 https://dl.google.com/dl/android/aosp/redfin-tq2a.230405.003-factory-e85b956b.zip
 https://dl.google.com/dl/android/aosp/redfin-tq2a.230405.003.a2-factory-c412df9c.zip
 https://dl.google.com/dl/android/aosp/redfin-tq2a.230405.003.b2-factory-f256a9df.zip
+https://dl.google.com/dl/android/aosp/redfin-tq2a.230505.002-factory-8f743d47.zip
+https://dl.google.com/dl/android/aosp/redfin-tq2a.230505.002.a1-factory-e83c8b16.zip
 https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.020-factory-97d5c03f.zip
 https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.021.a1-factory-d557c59e.zip
 https://dl.google.com/dl/android/aosp/bramble-rd1a.200810.021.b3-factory-5e1f7af4.zip
@@ -259,6 +268,8 @@ https://dl.google.com/dl/android/aosp/bramble-tq2a.230305.008.c1-factory-907bf4e
 https://dl.google.com/dl/android/aosp/bramble-tq2a.230405.003-factory-a854ba24.zip
 https://dl.google.com/dl/android/aosp/bramble-tq2a.230405.003.a2-factory-405c46a6.zip
 https://dl.google.com/dl/android/aosp/bramble-tq2a.230405.003.b2-factory-e02276e0.zip
+https://dl.google.com/dl/android/aosp/bramble-tq2a.230505.002-factory-c5aac8fc.zip
+https://dl.google.com/dl/android/aosp/bramble-tq2a.230505.002.a1-factory-04e8aeb8.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.024.a1-factory-2e462cf3.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200317.027-factory-f137d3d1.zip
 https://dl.google.com/dl/android/aosp/sunfish-qd4a.200805.001-factory-99540370.zip
@@ -305,6 +316,7 @@ https://dl.google.com/dl/android/aosp/sunfish-tq1a.230205.002-factory-2d0ec997.z
 https://dl.google.com/dl/android/aosp/sunfish-tq2a.230305.008.c1-factory-97732c43.zip
 https://dl.google.com/dl/android/aosp/sunfish-tq2a.230405.003-factory-1cb87bfb.zip
 https://dl.google.com/dl/android/aosp/sunfish-tq2a.230405.003.b2-factory-18da8594.zip
+https://dl.google.com/dl/android/aosp/sunfish-tq2a.230505.002-factory-9c73277b.zip
 https://dl.google.com/dl/android/aosp/coral-qd1a.190821.007-factory-e915f51a.zip
 https://dl.google.com/dl/android/aosp/coral-qd1a.190821.011-factory-6dbd28f3.zip
 https://dl.google.com/dl/android/aosp/coral-qd1a.190821.011.c4-factory-6a29be3b.zip
