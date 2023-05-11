@@ -1,3 +1,7 @@
+https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042-622d0e17.zip
+https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042.a1-1e8b7f7f.zip
+https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042.b1-c44be940.zip
+https://dl.google.com/dl/android/aosp/lynx-ota-tq2b.230505.005.a1-766dbd16.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a5-f0c1f917.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.031-cd81a567.zip

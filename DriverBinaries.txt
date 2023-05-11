@@ -1,3 +1,7 @@
+https://dl.google.com/dl/android/aosp/google_devices-lynx-td4a.221205.042-394ef7e4.tgz
+https://dl.google.com/dl/android/aosp/google_devices-lynx-td4a.221205.042.a1-a8596eab.tgz
+https://dl.google.com/dl/android/aosp/google_devices-lynx-td4a.221205.042.b1-89141fc1.tgz
+https://dl.google.com/dl/android/aosp/google_devices-lynx-tq2b.230505.005.a1-641e0f29.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.009.a2-724bfafc.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.009.a5-b5618083.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.031-d59f7f42.tgz
