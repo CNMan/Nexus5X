@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.zip
+https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c1-factory-39d45734.zip
+https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c2-factory-a3fcba63.zip
 https://dl.google.com/dl/android/aosp/tangorpro-td2a.230203.028-factory-55b7fab7.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230605.009.a1-factory-6e0496d1.zip
 https://dl.google.com/dl/android/aosp/lynx-td4a.221205.042-factory-f94007e2.zip

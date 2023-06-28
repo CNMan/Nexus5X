@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/felix-ota-td3a.230203.070.a1-125de0f9.zip
+https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c1-4f136d8d.zip
+https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c2-6cf8c3dc.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-td2a.230203.028-62304a0f.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-tq3a.230605.009.a1-19ab82f9.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042-622d0e17.zip
