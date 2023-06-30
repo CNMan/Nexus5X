@@ -1,6 +1,7 @@
 https://dl.google.com/dl/android/aosp/google_devices-felix-td3a.230203.070.a1-c580a410.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-tq3c.230605.010.c1-fb033aef.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-tq3c.230605.010.c2-2479fac1.tgz
+https://dl.google.com/dl/android/aosp/google_devices-felix-tq3c.230605.010.d1-ca37aaa5.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-td2a.230203.028-d0eca6a8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-tq3a.230605.009.a1-60ea6ec9.tgz
 https://dl.google.com/dl/android/aosp/google_devices-lynx-td4a.221205.042-394ef7e4.tgz
