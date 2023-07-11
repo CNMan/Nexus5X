@@ -2,6 +2,9 @@ https://dl.google.com/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c1-factory-39d45734.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c2-factory-a3fcba63.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.d1-factory-91f88e93.zip
+https://dl.google.com/dl/android/aosp/felix-tq3c.230705.001.b1-factory-98747d76.zip
+https://dl.google.com/dl/android/aosp/felix-tq3c.230705.001.c1-factory-65f97575.zip
+https://dl.google.com/dl/android/aosp/felix-tq3c.230705.001.c2-factory-bbb0e245.zip
 https://dl.google.com/dl/android/aosp/tangorpro-td2a.230203.028-factory-55b7fab7.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230605.009.a1-factory-6e0496d1.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230705.001.b4-factory-42ee72b7.zip
