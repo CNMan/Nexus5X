@@ -1,3 +1,13 @@
+https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022-bfe0aad5.tgz
+https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022.a3-5ee7d7f9.tgz
+https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022.a4-261278f6.tgz
+https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022.b1-99982696.tgz
+https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.041-d34ba4d0.tgz
+https://dl.google.com/dl/android/aosp/google_devices-shiba-ud1a.230803.022.a5-cfbb20ac.tgz
+https://dl.google.com/dl/android/aosp/google_devices-shiba-ud1a.230803.022.b2-b2b58f33.tgz
+https://dl.google.com/dl/android/aosp/google_devices-shiba-ud1a.230803.022.c1-65da8417.tgz
+https://dl.google.com/dl/android/aosp/google_devices-shiba-ud1a.230803.022.d1-d17d5963.tgz
+https://dl.google.com/dl/android/aosp/google_devices-shiba-ud1a.230803.041-e5290b7e.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-td3a.230203.070.a1-c580a410.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-tq3c.230605.010.c1-fb033aef.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-tq3c.230605.010.c2-2479fac1.tgz

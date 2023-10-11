@@ -1,3 +1,13 @@
+https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a3-factory-a95417f6.zip
+https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a4-factory-621d3cb0.zip
+https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.b1-factory-ad17d26d.zip
+https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022-factory-38765209.zip
+https://dl.google.com/dl/android/aosp/husky-ud1a.230803.041-factory-f26063c5.zip
+https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.a5-factory-85c06d1d.zip
+https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.b2-factory-829d0a85.zip
+https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.c1-factory-750b1e83.zip
+https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.d1-factory-e99ecc75.zip
+https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.041-factory-3ed11735.zip
 https://dl.google.com/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c1-factory-39d45734.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c2-factory-a3fcba63.zip

@@ -1,3 +1,13 @@
+https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022-102b3fd3.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.a3-d9351256.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.a4-3fc154f8.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.b1-13ff7dfb.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.041-cca7e111.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.a5-415253a6.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.b2-8813e2e5.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.c1-527c3ceb.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.d1-c6106030.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.041-6bbb528c.zip
 https://dl.google.com/dl/android/aosp/felix-ota-td3a.230203.070.a1-125de0f9.zip
 https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c1-4f136d8d.zip
 https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c2-6cf8c3dc.zip
