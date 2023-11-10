@@ -26,6 +26,7 @@ https://dl.google.com/dl/android/aosp/felix-tq3c.230901.001.b1-factory-288016de.
 https://dl.google.com/dl/android/aosp/felix-up1a.231005.007-factory-9262aa73.zip
 https://dl.google.com/dl/android/aosp/felix-up1a.231005.007.a1-factory-4ed44506.zip
 https://dl.google.com/dl/android/aosp/felix-up1a.231105.003-factory-604afb3f.zip
+https://dl.google.com/dl/android/aosp/felix-up1a.231105.003.a1-factory-860db807.zip
 https://dl.google.com/dl/android/aosp/tangorpro-td2a.230203.028-factory-55b7fab7.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230605.009.a1-factory-6e0496d1.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230705.001.b4-factory-42ee72b7.zip
@@ -48,6 +49,7 @@ https://dl.google.com/dl/android/aosp/lynx-tq3a.230901.001.c3-factory-fe4ea098.z
 https://dl.google.com/dl/android/aosp/lynx-up1a.231005.007-factory-aea9c006.zip
 https://dl.google.com/dl/android/aosp/lynx-up1a.231005.007.a1-factory-c61585bb.zip
 https://dl.google.com/dl/android/aosp/lynx-up1a.231105.003-factory-577d6e00.zip
+https://dl.google.com/dl/android/aosp/lynx-up1a.231105.003.a1-factory-d8cd75fb.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.009.a2-factory-8e7393e1.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.009.a5-factory-c68659bd.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.031-factory-6152f6f3.zip
@@ -76,6 +78,7 @@ https://dl.google.com/dl/android/aosp/cheetah-tq3a.230901.001.c2-factory-5f2b98d
 https://dl.google.com/dl/android/aosp/cheetah-up1a.231005.007-factory-b556b487.zip
 https://dl.google.com/dl/android/aosp/cheetah-up1a.231005.007.a1-factory-175eb4d1.zip
 https://dl.google.com/dl/android/aosp/cheetah-up1a.231105.003-factory-c7f94298.zip
+https://dl.google.com/dl/android/aosp/cheetah-up1a.231105.003.a1-factory-c8add5b7.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a2-factory-336ba5c1.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a5-factory-3c42ee81.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.031-factory-2f036a47.zip
@@ -104,6 +107,7 @@ https://dl.google.com/dl/android/aosp/panther-tq3a.230901.001.c2-factory-51bde7e
 https://dl.google.com/dl/android/aosp/panther-up1a.231005.007-factory-09c6d453.zip
 https://dl.google.com/dl/android/aosp/panther-up1a.231005.007.a1-factory-2ce509e3.zip
 https://dl.google.com/dl/android/aosp/panther-up1a.231105.003-factory-1f4e21fc.zip
+https://dl.google.com/dl/android/aosp/panther-up1a.231105.003.a1-factory-db7a0af9.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.001.a1-factory-16c3fe1c.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.004-factory-5ecedd46.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.002-factory-928c0c46.zip
