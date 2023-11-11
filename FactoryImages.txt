@@ -144,6 +144,7 @@ https://dl.google.com/dl/android/aosp/bluejay-tq3a.230901.001.c2-factory-12efaa8
 https://dl.google.com/dl/android/aosp/bluejay-up1a.231005.007-factory-ab16eb7b.zip
 https://dl.google.com/dl/android/aosp/bluejay-up1a.231005.007.a1-factory-824adabf.zip
 https://dl.google.com/dl/android/aosp/bluejay-up1a.231105.003-factory-f21e8baf.zip
+https://dl.google.com/dl/android/aosp/bluejay-up1a.231105.003.a1-factory-15b9e4c6.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.b1-factory-1309fcfa.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.c2-factory-b1907625.zip
@@ -195,6 +196,7 @@ https://dl.google.com/dl/android/aosp/oriole-tq3a.230901.001.c2-factory-fa5562f1
 https://dl.google.com/dl/android/aosp/oriole-up1a.231005.007-factory-6db3bfe6.zip
 https://dl.google.com/dl/android/aosp/oriole-up1a.231005.007.a1-factory-79cdac9d.zip
 https://dl.google.com/dl/android/aosp/oriole-up1a.231105.003-factory-74f703f2.zip
+https://dl.google.com/dl/android/aosp/oriole-up1a.231105.003.a1-factory-3240981d.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.015.a4-factory-bd6cb030.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.b1-factory-e74172d8.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.c2-factory-618ef258.zip
@@ -246,6 +248,7 @@ https://dl.google.com/dl/android/aosp/raven-tq3a.230901.001.c2-factory-e7e2cf2e.
 https://dl.google.com/dl/android/aosp/raven-up1a.231005.007-factory-7894f2e7.zip
 https://dl.google.com/dl/android/aosp/raven-up1a.231005.007.a1-factory-5d927f3e.zip
 https://dl.google.com/dl/android/aosp/raven-up1a.231105.003-factory-76a795d5.zip
+https://dl.google.com/dl/android/aosp/raven-up1a.231105.003.a1-factory-861e22bf.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.006-factory-619b07d2.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210905.002-factory-923343d0.zip

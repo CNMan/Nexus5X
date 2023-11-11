@@ -144,6 +144,7 @@ https://dl.google.com/dl/android/aosp/google_devices-bluejay-tq3a.230901.001.c2-
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-up1a.231005.007-6d7c6c83.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-up1a.231005.007.a1-2ceb7344.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-up1a.231105.003-f817a87c.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-up1a.231105.003.a1-4687686c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.015.a4-b4ec71a4.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.b1-f4f0d010.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.c2-d05b2fa5.tgz
@@ -199,6 +200,7 @@ https://dl.google.com/dl/android/aosp/google_devices-oriole-tq3a.230901.001.c2-6
 https://dl.google.com/dl/android/aosp/google_devices-oriole-up1a.231005.007-a692dbc5.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-up1a.231005.007.a1-7c6ac7f8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-up1a.231105.003-bdccadda.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-up1a.231105.003.a1-3aae8558.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.015.a4-31a5656a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.b1-c05af44d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.c2-3a466808.tgz
@@ -254,6 +256,7 @@ https://dl.google.com/dl/android/aosp/google_devices-raven-tq3a.230901.001.c2-fa
 https://dl.google.com/dl/android/aosp/google_devices-raven-up1a.231005.007-e3d31909.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-up1a.231005.007.a1-bd6dfe77.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-up1a.231105.003-da474124.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-up1a.231105.003.a1-58d77878.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.006-22c86344.tgz
 https://dl.google.com/dl/android/aosp/qcom-barbet-rd2a.210605.006-e46aeee2.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.007-2d9f7b7f.tgz

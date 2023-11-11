@@ -144,6 +144,7 @@ https://dl.google.com/dl/android/aosp/bluejay-ota-tq3a.230901.001.c2-5d128166.zi
 https://dl.google.com/dl/android/aosp/bluejay-ota-up1a.231005.007-b0c46acf.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-up1a.231005.007.a1-1d3f9743.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-up1a.231105.003-8f9f1dcd.zip
+https://dl.google.com/dl/android/aosp/bluejay-ota-up1a.231105.003.a1-0e8dfe02.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.c2-1f9d1cdb.zip
@@ -195,6 +196,7 @@ https://dl.google.com/dl/android/aosp/oriole-ota-tq3a.230901.001.c2-af57c77f.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-up1a.231005.007-b69a2c1b.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-up1a.231005.007.a1-4f415808.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-up1a.231105.003-bb84d181.zip
+https://dl.google.com/dl/android/aosp/oriole-ota-up1a.231105.003.a1-b7136f15.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.c2-fd22bee6.zip
@@ -246,6 +248,7 @@ https://dl.google.com/dl/android/aosp/raven-ota-tq3a.230901.001.c2-60996089.zip
 https://dl.google.com/dl/android/aosp/raven-ota-up1a.231005.007-59a0a7fc.zip
 https://dl.google.com/dl/android/aosp/raven-ota-up1a.231005.007.a1-a56bc2f2.zip
 https://dl.google.com/dl/android/aosp/raven-ota-up1a.231105.003-f616529c.zip
+https://dl.google.com/dl/android/aosp/raven-ota-up1a.231105.003.a1-c6d4de35.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210905.002-bbb8c72e.zip
