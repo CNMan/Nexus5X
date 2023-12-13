@@ -5,6 +5,7 @@ https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022-factory-38765209.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.041-factory-f26063c5.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.231105.004-factory-38d2e6cf.zip
 https://dl.google.com/dl/android/aosp/husky-uq1a.231205.015-factory-3cd41d9b.zip
+https://dl.google.com/dl/android/aosp/husky-uq1a.231205.015.a1-factory-4f2b1019.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.a5-factory-85c06d1d.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.b2-factory-829d0a85.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.c1-factory-750b1e83.zip
@@ -12,6 +13,7 @@ https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.d1-factory-e99ecc75.
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.041-factory-3ed11735.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.231105.004-factory-0b858d98.zip
 https://dl.google.com/dl/android/aosp/shiba-uq1a.231205.015-factory-ac56e72d.zip
+https://dl.google.com/dl/android/aosp/shiba-uq1a.231205.015.a1-factory-4611da06.zip
 https://dl.google.com/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c1-factory-39d45734.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c2-factory-a3fcba63.zip
@@ -30,6 +32,7 @@ https://dl.google.com/dl/android/aosp/felix-up1a.231005.007.a1-factory-4ed44506.
 https://dl.google.com/dl/android/aosp/felix-up1a.231105.003-factory-604afb3f.zip
 https://dl.google.com/dl/android/aosp/felix-up1a.231105.003.a1-factory-860db807.zip
 https://dl.google.com/dl/android/aosp/felix-uq1a.231205.015-factory-7bf17efb.zip
+https://dl.google.com/dl/android/aosp/felix-uq1a.231205.015.a1-factory-cc9ee576.zip
 https://dl.google.com/dl/android/aosp/tangorpro-td2a.230203.028-factory-55b7fab7.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230605.009.a1-factory-6e0496d1.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230705.001.b4-factory-42ee72b7.zip
@@ -55,6 +58,7 @@ https://dl.google.com/dl/android/aosp/lynx-up1a.231005.007.a1-factory-c61585bb.z
 https://dl.google.com/dl/android/aosp/lynx-up1a.231105.003-factory-577d6e00.zip
 https://dl.google.com/dl/android/aosp/lynx-up1a.231105.003.a1-factory-d8cd75fb.zip
 https://dl.google.com/dl/android/aosp/lynx-uq1a.231205.015-factory-f4fe5ddf.zip
+https://dl.google.com/dl/android/aosp/lynx-uq1a.231205.015.a1-factory-70b493e5.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.009.a2-factory-8e7393e1.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.009.a5-factory-c68659bd.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.031-factory-6152f6f3.zip
@@ -85,6 +89,7 @@ https://dl.google.com/dl/android/aosp/cheetah-up1a.231005.007.a1-factory-175eb4d
 https://dl.google.com/dl/android/aosp/cheetah-up1a.231105.003-factory-c7f94298.zip
 https://dl.google.com/dl/android/aosp/cheetah-up1a.231105.003.a1-factory-c8add5b7.zip
 https://dl.google.com/dl/android/aosp/cheetah-uq1a.231205.015-factory-99c57348.zip
+https://dl.google.com/dl/android/aosp/cheetah-uq1a.231205.015.a1-factory-e4cb8579.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a2-factory-336ba5c1.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a5-factory-3c42ee81.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.031-factory-2f036a47.zip
@@ -115,6 +120,7 @@ https://dl.google.com/dl/android/aosp/panther-up1a.231005.007.a1-factory-2ce509e
 https://dl.google.com/dl/android/aosp/panther-up1a.231105.003-factory-1f4e21fc.zip
 https://dl.google.com/dl/android/aosp/panther-up1a.231105.003.a1-factory-db7a0af9.zip
 https://dl.google.com/dl/android/aosp/panther-uq1a.231205.015-factory-9bc852a1.zip
+https://dl.google.com/dl/android/aosp/panther-uq1a.231205.015.a1-factory-c6a0f33f.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.001.a1-factory-16c3fe1c.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.004-factory-5ecedd46.zip
 https://dl.google.com/dl/android/aosp/bluejay-sd2a.220601.002-factory-928c0c46.zip
