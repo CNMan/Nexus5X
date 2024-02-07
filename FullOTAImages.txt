@@ -410,6 +410,7 @@ https://dl.google.com/dl/android/aosp/redfin-ota-tq3a.230901.001-eac0a8f6.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-tq3a.230901.001.c2-fc8ea12b.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-up1a.231005.007-4593d7c6.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-up1a.231105.001-cb2967ff.zip
+https://dl.google.com/dl/android/aosp/redfin-ota-up1a.231105.001.b2-17322169.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.020-b52f870c.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.021.a1-2d832c1e.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.021.b3-3a708167.zip
@@ -472,6 +473,7 @@ https://dl.google.com/dl/android/aosp/bramble-ota-tq3a.230901.001-6d107ffa.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-tq3a.230901.001.c2-c99df726.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-up1a.231005.007-231386fe.zip
 https://dl.google.com/dl/android/aosp/bramble-ota-up1a.231105.001-db54d066.zip
+https://dl.google.com/dl/android/aosp/bramble-ota-up1a.231105.001.b2-06727ba9.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.024.a1-19a394ae.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.027-6c6c95d0.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200805.001-a1256d7f.zip

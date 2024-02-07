@@ -525,6 +525,8 @@ https://dl.google.com/dl/android/aosp/google_devices-redfin-up1a.231005.007-962e
 https://dl.google.com/dl/android/aosp/qcom-redfin-up1a.231005.007-94ebf73b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-redfin-up1a.231105.001-c7830c39.tgz
 https://dl.google.com/dl/android/aosp/qcom-redfin-up1a.231105.001-6e7c8da7.tgz
+https://dl.google.com/dl/android/aosp/google_devices-redfin-up1a.231105.001.b2-dba16b6b.tgz
+https://dl.google.com/dl/android/aosp/qcom-redfin-up1a.231105.001.b2-57e3c19c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.020-f048d12c.tgz
 https://dl.google.com/dl/android/aosp/qcom-bramble-rd1a.200810.020-e154fb1c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-rd1a.200810.021.a1-4b2dfbbc.tgz
@@ -649,6 +651,8 @@ https://dl.google.com/dl/android/aosp/google_devices-bramble-up1a.231005.007-a85
 https://dl.google.com/dl/android/aosp/qcom-bramble-up1a.231005.007-1fd65afb.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bramble-up1a.231105.001-a7387989.tgz
 https://dl.google.com/dl/android/aosp/qcom-bramble-up1a.231105.001-689e7c1c.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bramble-up1a.231105.001.b2-b7190494.tgz
+https://dl.google.com/dl/android/aosp/qcom-bramble-up1a.231105.001.b2-0ae207af.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sunfish-qd4a.200317.024.a1-44c42f0b.tgz
 https://dl.google.com/dl/android/aosp/qcom-sunfish-qd4a.200317.024.a1-c551c921.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sunfish-qd4a.200317.027-35d50112.tgz
