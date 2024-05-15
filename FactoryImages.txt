@@ -1,3 +1,11 @@
+https://dl.google.com/dl/android/aosp/akita-ud2a.231203.054-factory-b3a902d4.zip
+https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057.a1-factory-56cd4f4f.zip
+https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057-factory-6ce595bb.zip
+https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001.a1-factory-85d9c967.zip
+https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001.b1-factory-f2cae5c7.zip
+https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001.d1-factory-2c57bb29.zip
+https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001-factory-4e9bd412.zip
+https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001.w1-factory-338cdfc1.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a3-factory-a95417f6.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a4-factory-621d3cb0.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.b1-factory-ad17d26d.zip
