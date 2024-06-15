@@ -6,6 +6,7 @@ https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.240505.001.a1-39
 https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.240505.001.b1-0ba86590.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.240505.001.d1-d8f30a7c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.240505.001.w1-e928c2dd.tgz
+https://dl.google.com/dl/android/aosp/google_devices-akita-ap2a.240605.024-5451169a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022-bfe0aad5.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022.a3-5ee7d7f9.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022.a4-261278f6.tgz
