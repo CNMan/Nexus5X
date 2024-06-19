@@ -7,6 +7,7 @@ https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001.d1-factory-2c57bb29.
 https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001-factory-4e9bd412.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.240505.001.w1-factory-338cdfc1.zip
 https://dl.google.com/dl/android/aosp/akita-ap2a.240605.024-factory-0023bc62.zip
+https://dl.google.com/dl/android/aosp/akita-ap2a.240605.024.a1-factory-e06294d5.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a3-factory-a95417f6.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a4-factory-621d3cb0.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.b1-factory-ad17d26d.zip
@@ -28,6 +29,7 @@ https://dl.google.com/dl/android/aosp/husky-ap1a.240505.005-factory-6fe67f4a.zip
 https://dl.google.com/dl/android/aosp/husky-ap1a.240505.005.a1-factory-56021c31.zip
 https://dl.google.com/dl/android/aosp/husky-ap1a.240505.005.b1-factory-5f230066.zip
 https://dl.google.com/dl/android/aosp/husky-ap2a.240605.024-factory-778ebf06.zip
+https://dl.google.com/dl/android/aosp/husky-ap2a.240605.024.a1-factory-7be03d54.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.a5-factory-85c06d1d.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.b2-factory-829d0a85.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.c1-factory-750b1e83.zip
@@ -49,6 +51,7 @@ https://dl.google.com/dl/android/aosp/shiba-ap1a.240505.005-factory-d0adedea.zip
 https://dl.google.com/dl/android/aosp/shiba-ap1a.240505.005.a1-factory-5ab51722.zip
 https://dl.google.com/dl/android/aosp/shiba-ap1a.240505.005.b1-factory-d41512f2.zip
 https://dl.google.com/dl/android/aosp/shiba-ap2a.240605.024-factory-929fd327.zip
+https://dl.google.com/dl/android/aosp/shiba-ap2a.240605.024.a1-factory-ff820a29.zip
 https://dl.google.com/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c1-factory-39d45734.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c2-factory-a3fcba63.zip
