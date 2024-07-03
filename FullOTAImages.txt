@@ -8,6 +8,8 @@ https://dl.google.com/dl/android/aosp/akita-ota-ud2a.240505.001.d1-0fe4a910.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ud2a.240505.001.w1-1d2e032d.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240605.024-2bc858b1.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240605.024.a1-0f48432f.zip
+https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240705.005-fbd833f2.zip
+https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240705.005.a1-a5de9a3e.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022-102b3fd3.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.a3-d9351256.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.a4-3fc154f8.zip
@@ -30,6 +32,8 @@ https://dl.google.com/dl/android/aosp/husky-ota-ap1a.240505.005.a1-c7087f6f.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap1a.240505.005.b1-70fa2214.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240605.024-1dbb127d.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240605.024.a1-ba71999c.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240705.005-53506844.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240705.005.a1-76ad44dd.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.a5-415253a6.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.b2-8813e2e5.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.c1-527c3ceb.zip
@@ -52,6 +56,8 @@ https://dl.google.com/dl/android/aosp/shiba-ota-ap1a.240505.005.a1-08c9bca8.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap1a.240505.005.b1-b06eae60.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240605.024-dc846018.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240605.024.a1-01a235b9.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240705.005-3376b945.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240705.005.a1-acefa238.zip
 https://dl.google.com/dl/android/aosp/felix-ota-td3a.230203.070.a1-125de0f9.zip
 https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c1-4f136d8d.zip
 https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c2-6cf8c3dc.zip
@@ -84,6 +90,7 @@ https://dl.google.com/dl/android/aosp/felix-ota-ap1a.240505.005-b64a1177.zip
 https://dl.google.com/dl/android/aosp/felix-ota-ap1a.240505.005.a1-069d8b80.zip
 https://dl.google.com/dl/android/aosp/felix-ota-ap1a.240505.005.b1-e0a1e804.zip
 https://dl.google.com/dl/android/aosp/felix-ota-ap2a.240605.024-8d6257df.zip
+https://dl.google.com/dl/android/aosp/felix-ota-ap2a.240705.004-331b80dd.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-td2a.230203.028-62304a0f.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-tq3a.230605.009.a1-19ab82f9.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-tq3a.230705.001.b4-ee536602.zip
@@ -98,6 +105,7 @@ https://dl.google.com/dl/android/aosp/tangorpro-ota-ap1a.240305.019.a1-37ddba39.
 https://dl.google.com/dl/android/aosp/tangorpro-ota-ap1a.240405.002-210fffed.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-ap1a.240505.004-fb4a536f.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-ap2a.240605.024-1bad9975.zip
+https://dl.google.com/dl/android/aosp/tangorpro-ota-ap2a.240705.004-e9472688.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042-622d0e17.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042.a1-1e8b7f7f.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042.b1-c44be940.zip
@@ -129,6 +137,7 @@ https://dl.google.com/dl/android/aosp/lynx-ota-ap1a.240505.005-811cb704.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-ap1a.240505.005.a1-d2b10d09.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-ap1a.240505.005.b1-5e9c0b99.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-ap2a.240605.024-a82ac4bb.zip
+https://dl.google.com/dl/android/aosp/lynx-ota-ap2a.240705.004-89bce1b6.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a5-f0c1f917.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.031-cd81a567.zip
@@ -173,6 +182,7 @@ https://dl.google.com/dl/android/aosp/cheetah-ota-ap1a.240505.005-9e6cb7d4.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-ap1a.240505.005.a1-b3e9e8aa.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-ap1a.240505.005.b1-b394c0ba.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-ap2a.240605.024-feba1b34.zip
+https://dl.google.com/dl/android/aosp/cheetah-ota-ap2a.240705.004-6c6f1111.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a5-44511a4b.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.031-8236abf4.zip
@@ -217,6 +227,7 @@ https://dl.google.com/dl/android/aosp/panther-ota-ap1a.240505.005-1f3cc637.zip
 https://dl.google.com/dl/android/aosp/panther-ota-ap1a.240505.005.a1-83fca43d.zip
 https://dl.google.com/dl/android/aosp/panther-ota-ap1a.240505.005.b1-c9a034fe.zip
 https://dl.google.com/dl/android/aosp/panther-ota-ap2a.240605.024-e6aff00e.zip
+https://dl.google.com/dl/android/aosp/panther-ota-ap2a.240705.004-5ce14c35.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.002-344f1ec9.zip
@@ -261,6 +272,7 @@ https://dl.google.com/dl/android/aosp/bluejay-ota-ap1a.240305.019.a1-fd58dc50.zi
 https://dl.google.com/dl/android/aosp/bluejay-ota-ap1a.240405.002-6114363c.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-ap1a.240505.004-1170ac40.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-ap2a.240605.024-f8a734a3.zip
+https://dl.google.com/dl/android/aosp/bluejay-ota-ap2a.240705.004-0b2bc993.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.c2-1f9d1cdb.zip
@@ -320,6 +332,7 @@ https://dl.google.com/dl/android/aosp/oriole-ota-ap1a.240305.019.a1-fdb8770a.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-ap1a.240405.002-bee2137c.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-ap1a.240505.004-97dc7f29.zip
 https://dl.google.com/dl/android/aosp/oriole-ota-ap2a.240605.024-eb45acac.zip
+https://dl.google.com/dl/android/aosp/oriole-ota-ap2a.240705.004-0fe0567d.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip
 https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.c2-fd22bee6.zip
@@ -379,6 +392,7 @@ https://dl.google.com/dl/android/aosp/raven-ota-ap1a.240305.019.a1-090960f8.zip
 https://dl.google.com/dl/android/aosp/raven-ota-ap1a.240405.002-4e278e46.zip
 https://dl.google.com/dl/android/aosp/raven-ota-ap1a.240505.004-40c7b1f1.zip
 https://dl.google.com/dl/android/aosp/raven-ota-ap2a.240605.024-9fe0dd60.zip
+https://dl.google.com/dl/android/aosp/raven-ota-ap2a.240705.004-f958fe50.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210905.002-bbb8c72e.zip
@@ -427,6 +441,7 @@ https://dl.google.com/dl/android/aosp/barbet-ota-ap1a.240305.019.a1-dc19d50f.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-ap1a.240405.002-0865416f.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-ap1a.240505.004-c4841f42.zip
 https://dl.google.com/dl/android/aosp/barbet-ota-ap2a.240605.024-67df3baf.zip
+https://dl.google.com/dl/android/aosp/barbet-ota-ap2a.240705.004-59dbe024.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.020-7b6b7070.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.020.a1-dd3e34bf.zip
 https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.021.a1-924eb0a7.zip
