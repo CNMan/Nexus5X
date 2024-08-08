@@ -11,6 +11,7 @@ https://dl.google.com/dl/android/aosp/akita-ap2a.240605.024.a1-factory-e06294d5.
 https://dl.google.com/dl/android/aosp/akita-ap2a.240705.005-factory-df5f07ce.zip
 https://dl.google.com/dl/android/aosp/akita-ap2a.240705.005.a1-factory-039e4fd8.zip
 https://dl.google.com/dl/android/aosp/akita-ap2a.240805.005.a1-factory-c57ea37c.zip
+https://dl.google.com/dl/android/aosp/akita-ap2a.240805.005.c1-factory-b2608cfe.zip
 https://dl.google.com/dl/android/aosp/akita-ap2a.240805.005.e1-factory-9f81474f.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a3-factory-a95417f6.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a4-factory-621d3cb0.zip
@@ -37,6 +38,7 @@ https://dl.google.com/dl/android/aosp/husky-ap2a.240605.024.a1-factory-7be03d54.
 https://dl.google.com/dl/android/aosp/husky-ap2a.240705.005-factory-5cd8df1e.zip
 https://dl.google.com/dl/android/aosp/husky-ap2a.240705.005.a1-factory-5ff9d4b9.zip
 https://dl.google.com/dl/android/aosp/husky-ap2a.240805.005-factory-06d11dac.zip
+https://dl.google.com/dl/android/aosp/husky-ap2a.240805.005.b1-factory-dd171ccd.zip
 https://dl.google.com/dl/android/aosp/husky-ap2a.240805.005.d1-factory-0c13edae.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.a5-factory-85c06d1d.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.b2-factory-829d0a85.zip
@@ -63,6 +65,7 @@ https://dl.google.com/dl/android/aosp/shiba-ap2a.240605.024.a1-factory-ff820a29.
 https://dl.google.com/dl/android/aosp/shiba-ap2a.240705.005-factory-461aa7c8.zip
 https://dl.google.com/dl/android/aosp/shiba-ap2a.240705.005.a1-factory-dc678be5.zip
 https://dl.google.com/dl/android/aosp/shiba-ap2a.240805.005-factory-47c02ead.zip
+https://dl.google.com/dl/android/aosp/shiba-ap2a.240805.005.b1-factory-ebe3bd22.zip
 https://dl.google.com/dl/android/aosp/shiba-ap2a.240805.005.d1-factory-c7e4f284.zip
 https://dl.google.com/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c1-factory-39d45734.zip

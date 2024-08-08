@@ -11,6 +11,7 @@ https://dl.google.com/dl/android/aosp/google_devices-akita-ap2a.240605.024.a1-4e
 https://dl.google.com/dl/android/aosp/google_devices-akita-ap2a.240705.005-8a1b8673.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ap2a.240705.005.a1-200ff93c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ap2a.240805.005.a1-93c84798.tgz
+https://dl.google.com/dl/android/aosp/google_devices-akita-ap2a.240805.005.c1-fc360204.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ap2a.240805.005.e1-a8069151.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022-bfe0aad5.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ud1a.230803.022.a3-5ee7d7f9.tgz
@@ -37,6 +38,7 @@ https://dl.google.com/dl/android/aosp/google_devices-husky-ap2a.240605.024.a1-08
 https://dl.google.com/dl/android/aosp/google_devices-husky-ap2a.240705.005-f1ea3ee7.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ap2a.240705.005.a1-e5f75bb5.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ap2a.240805.005-02ffc308.tgz
+https://dl.google.com/dl/android/aosp/google_devices-husky-ap2a.240805.005.b1-89ae4b72.tgz
 https://dl.google.com/dl/android/aosp/google_devices-husky-ap2a.240805.005.d1-6271225f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-shiba-ud1a.230803.022.a5-cfbb20ac.tgz
 https://dl.google.com/dl/android/aosp/google_devices-shiba-ud1a.230803.022.b2-b2b58f33.tgz
@@ -63,6 +65,7 @@ https://dl.google.com/dl/android/aosp/google_devices-shiba-ap2a.240605.024.a1-c4
 https://dl.google.com/dl/android/aosp/google_devices-shiba-ap2a.240705.005-3c9f4dd3.tgz
 https://dl.google.com/dl/android/aosp/google_devices-shiba-ap2a.240705.005.a1-2f02e090.tgz
 https://dl.google.com/dl/android/aosp/google_devices-shiba-ap2a.240805.005-633b928e.tgz
+https://dl.google.com/dl/android/aosp/google_devices-shiba-ap2a.240805.005.b1-eba94ebc.tgz
 https://dl.google.com/dl/android/aosp/google_devices-shiba-ap2a.240805.005.d1-35bdfe4f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-td3a.230203.070.a1-c580a410.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-tq3c.230605.010.c1-fb033aef.tgz

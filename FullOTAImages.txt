@@ -11,6 +11,7 @@ https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240605.024.a1-0f48432f.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240705.005-fbd833f2.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240705.005.a1-a5de9a3e.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240805.005.a1-f6667708.zip
+https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240805.005.c1-8f333bff.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap2a.240805.005.e1-fedc2007.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022-102b3fd3.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.a3-d9351256.zip
@@ -37,6 +38,7 @@ https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240605.024.a1-ba71999c.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240705.005-53506844.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240705.005.a1-76ad44dd.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240805.005-0cbc4d6a.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240805.005.b1-01a0c105.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap2a.240805.005.d1-ec20c85d.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.a5-415253a6.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.b2-8813e2e5.zip
@@ -63,6 +65,7 @@ https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240605.024.a1-01a235b9.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240705.005-3376b945.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240705.005.a1-acefa238.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240805.005-bcd0cb98.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240805.005.b1-58833eca.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap2a.240805.005.d1-3cde38bd.zip
 https://dl.google.com/dl/android/aosp/felix-ota-td3a.230203.070.a1-125de0f9.zip
 https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c1-4f136d8d.zip
