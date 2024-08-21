@@ -1,3 +1,16 @@
+https://dl.google.com/dl/android/aosp/google_devices-caiman-ad1a.240530.030-5ad9947c.tgz
+https://dl.google.com/dl/android/aosp/google_devices-caiman-ad1a.240530.030.a1-44e786e7.tgz
+https://dl.google.com/dl/android/aosp/google_devices-caiman-ad1a.240530.030.a2-547c4cf5.tgz
+https://dl.google.com/dl/android/aosp/google_devices-caiman-ad1a.240530.047-77ff2344.tgz
+https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240530.030-794b9ab7.tgz
+https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240530.030.a1-bec05d72.tgz
+https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240530.030.a2-5681d310.tgz
+https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240530.047-91716126.tgz
+https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030-9eda4664.tgz
+https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.a1-97948065.tgz
+https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.a2-0c4f2916.tgz
+https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.b1-5eea152a.tgz
+https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.047-86ea418b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.231203.054-28ece47c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.231203.057-6e8e5a22.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.231203.057.a1-ed82bfa1.tgz

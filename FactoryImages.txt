@@ -1,3 +1,16 @@
+https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030-factory-5e2727b9.zip
+https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a1-factory-5a5409a8.zip
+https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a2-factory-b6c8d14d.zip
+https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.047-factory-073ef35d.zip
+https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030-factory-fb963bd6.zip
+https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030.a1-factory-06b98f68.zip
+https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030.a2-factory-f3d59301.zip
+https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.047-factory-bb04e484.zip
+https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030.a1-factory-c00748c8.zip
+https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030-factory-6e7c358b.zip
+https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030.a2-factory-586308ac.zip
+https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030.b1-factory-948bdc3f.zip
+https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.047-factory-5c2831bb.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.054-factory-b3a902d4.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057.a1-factory-56cd4f4f.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057-factory-6ce595bb.zip
