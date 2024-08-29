@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/google_devices-comet-ad1a.240530.030-52fc4d99.tgz
+https://dl.google.com/dl/android/aosp/google_devices-comet-ad1a.240530.030.a1-dc9de65f.tgz
+https://dl.google.com/dl/android/aosp/google_devices-comet-ad1a.240530.047-9da2c962.tgz
 https://dl.google.com/dl/android/aosp/google_devices-caiman-ad1a.240530.030-5ad9947c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-caiman-ad1a.240530.030.a1-44e786e7.tgz
 https://dl.google.com/dl/android/aosp/google_devices-caiman-ad1a.240530.030.a2-547c4cf5.tgz

@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/comet-ota-ad1a.240530.030-98066022.zip
+https://dl.google.com/dl/android/aosp/comet-ota-ad1a.240530.030.a1-1d0d3c25.zip
+https://dl.google.com/dl/android/aosp/comet-ota-ad1a.240530.047-a82cf266.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ad1a.240530.030-0fc923fd.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ad1a.240530.030.a1-9d217d6c.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ad1a.240530.030.a2-33df5025.zip

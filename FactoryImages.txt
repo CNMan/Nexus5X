@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/comet-ad1a.240530.030-factory-77dca584.zip
+https://dl.google.com/dl/android/aosp/comet-ad1a.240530.030.a1-factory-b8941ae3.zip
+https://dl.google.com/dl/android/aosp/comet-ad1a.240530.047-factory-93386866.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030-factory-5e2727b9.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a1-factory-5a5409a8.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a2-factory-b6c8d14d.zip
