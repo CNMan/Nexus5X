@@ -18,12 +18,16 @@ https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240530.047-9171
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240905.004-27bbb63e.tgz
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015-824c630c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015.a2-840ff8c1.tgz
+https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015-824c630c.tgz
+https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015.a2-840ff8c1.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030-9eda4664.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.a1-97948065.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.a2-0c4f2916.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.b1-5eea152a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.047-86ea418b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240905.004-c79c5623.tgz
+https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015-26eab14c.tgz
+https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015.a2-c3374599.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015-26eab14c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015.a2-c3374599.tgz
 https://dl.google.com/dl/android/aosp/google_devices-akita-ud2a.231203.054-28ece47c.tgz
@@ -146,6 +150,7 @@ https://dl.google.com/dl/android/aosp/google_devices-felix-ap2a.240705.004-9e4a4
 https://dl.google.com/dl/android/aosp/google_devices-felix-ap2a.240805.005-a2b99567.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-ap2a.240905.003-1482ff50.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-ap3a.241005.015-d661456b.tgz
+https://dl.google.com/dl/android/aosp/google_devices-felix-ap3a.241005.015.a2-d2132a71.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-td2a.230203.028-d0eca6a8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-tq3a.230605.009.a1-60ea6ec9.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-tq3a.230705.001.b4-b538c6db.tgz
@@ -199,6 +204,7 @@ https://dl.google.com/dl/android/aosp/google_devices-lynx-ap2a.240705.004-da3ea4
 https://dl.google.com/dl/android/aosp/google_devices-lynx-ap2a.240805.005-a8aa526f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-lynx-ap2a.240905.003-4870d372.tgz
 https://dl.google.com/dl/android/aosp/google_devices-lynx-ap3a.241005.015-afed5986.tgz
+https://dl.google.com/dl/android/aosp/google_devices-lynx-ap3a.241005.015.a2-ba978bd7.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.009.a2-724bfafc.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.009.a5-b5618083.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.031-d59f7f42.tgz
@@ -247,6 +253,7 @@ https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap2a.240705.004-81f
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap2a.240805.005-dccf4b60.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap2a.240905.003-03cf8105.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap3a.241005.015-0baada54.tgz
+https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap3a.241005.015.a2-4d7f9731.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-td1a.220804.009.a2-f2af1068.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-td1a.220804.009.a5-b08c4600.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-td1a.220804.031-0041fc65.tgz
@@ -295,6 +302,7 @@ https://dl.google.com/dl/android/aosp/google_devices-panther-ap2a.240705.004-faa
 https://dl.google.com/dl/android/aosp/google_devices-panther-ap2a.240805.005-289c6555.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-ap2a.240905.003-879f5e50.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-ap3a.241005.015-a719a17c.tgz
+https://dl.google.com/dl/android/aosp/google_devices-panther-ap3a.241005.015.a2-54104fad.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.001.a1-0145bbe6.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.004-7c778415.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.002-1e7dd329.tgz
@@ -343,6 +351,7 @@ https://dl.google.com/dl/android/aosp/google_devices-bluejay-ap2a.240705.004-0f3
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-ap2a.240805.005.f1-5f68920f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-ap2a.240905.003.f1-d81d2234.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-ap3a.241005.015-008fb1be.tgz
+https://dl.google.com/dl/android/aosp/google_devices-bluejay-ap3a.241005.015.a2-c521b983.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.015.a4-b4ec71a4.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.b1-f4f0d010.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-sd1a.210817.019.c2-d05b2fa5.tgz
@@ -410,6 +419,7 @@ https://dl.google.com/dl/android/aosp/google_devices-oriole-ap2a.240705.004-c177
 https://dl.google.com/dl/android/aosp/google_devices-oriole-ap2a.240805.005.f1-5a24b853.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-ap2a.240905.003.f1-e16f081f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-oriole-ap3a.241005.015-ae026ee4.tgz
+https://dl.google.com/dl/android/aosp/google_devices-oriole-ap3a.241005.015.a2-21b5448c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.015.a4-31a5656a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.b1-c05af44d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-sd1a.210817.019.c2-3a466808.tgz
@@ -477,6 +487,7 @@ https://dl.google.com/dl/android/aosp/google_devices-raven-ap2a.240705.004-02073
 https://dl.google.com/dl/android/aosp/google_devices-raven-ap2a.240805.005.f1-713bb4c0.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-ap2a.240905.003.f1-434835cb.tgz
 https://dl.google.com/dl/android/aosp/google_devices-raven-ap3a.241005.015-c728377d.tgz
+https://dl.google.com/dl/android/aosp/google_devices-raven-ap3a.241005.015.a2-b91e2f6d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.006-22c86344.tgz
 https://dl.google.com/dl/android/aosp/qcom-barbet-rd2a.210605.006-e46aeee2.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-rd2a.210605.007-2d9f7b7f.tgz
