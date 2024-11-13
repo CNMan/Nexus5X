@@ -541,6 +541,7 @@ https://dl.google.com/dl/android/aosp/barbet-ap1a.240505.004-factory-95585c7d.zi
 https://dl.google.com/dl/android/aosp/barbet-ap2a.240605.024-factory-5513fec5.zip
 https://dl.google.com/dl/android/aosp/barbet-ap2a.240705.004-factory-05919506.zip
 https://dl.google.com/dl/android/aosp/barbet-ap2a.240805.005-factory-231e0672.zip
+https://dl.google.com/dl/android/aosp/barbet-ap2a.240805.005.s4-factory-eb064cd6.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.020-factory-c3ea1715.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.020.a1-factory-7ac5ecfc.zip
 https://dl.google.com/dl/android/aosp/redfin-rd1a.200810.021.a1-factory-cd18efdf.zip

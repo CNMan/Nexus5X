@@ -603,6 +603,8 @@ https://dl.google.com/dl/android/aosp/google_devices-barbet-ap2a.240705.004-5259
 https://dl.google.com/dl/android/aosp/qcom-barbet-ap2a.240705.004-78c7ec4b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-barbet-ap2a.240805.005-a0da9c40.tgz
 https://dl.google.com/dl/android/aosp/qcom-barbet-ap2a.240805.005-4480b6d7.tgz
+https://dl.google.com/dl/android/aosp/google_devices-barbet-ap2a.240805.005.s4-104d90f1.tgz
+https://dl.google.com/dl/android/aosp/qcom-barbet-ap2a.240805.005.s4-4b71630d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-redfin-rd1a.200810.020-3940ace1.tgz
 https://dl.google.com/dl/android/aosp/qcom-redfin-rd1a.200810.020-e99cf7f8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-redfin-rd1a.200810.021.a1-eb77b8d5.tgz
