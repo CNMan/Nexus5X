@@ -7,6 +7,7 @@ https://dl.google.com/dl/android/aosp/comet-ota-ap3a.241005.015.a2-65129544.zip
 https://dl.google.com/dl/android/aosp/comet-ota-ap3a.241105.008-ebe2f388.zip
 https://dl.google.com/dl/android/aosp/comet-ota-ap4a.241205.013-616bfa66.zip
 https://dl.google.com/dl/android/aosp/comet-ota-ap4a.241205.013.b1-61c6e933.zip
+https://dl.google.com/dl/android/aosp/comet-ota-ap4a.241205.013.c1-778a50ed.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ad1a.240530.030-0fc923fd.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ad1a.240530.030.a1-9d217d6c.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ad1a.240530.030.a2-33df5025.zip
@@ -17,6 +18,7 @@ https://dl.google.com/dl/android/aosp/caiman-ota-ap3a.241005.015.a2-9bee7c45.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ap3a.241105.008-220f2d94.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ap4a.241205.013-b914a097.zip
 https://dl.google.com/dl/android/aosp/caiman-ota-ap4a.241205.013.b1-bb072821.zip
+https://dl.google.com/dl/android/aosp/caiman-ota-ap4a.241205.013.c1-b1d00923.zip
 https://dl.google.com/dl/android/aosp/komodo-ota-ad1a.240530.030-d76aa699.zip
 https://dl.google.com/dl/android/aosp/komodo-ota-ad1a.240530.030.a1-911531c4.zip
 https://dl.google.com/dl/android/aosp/komodo-ota-ad1a.240530.030.a2-05bc8513.zip
@@ -27,6 +29,7 @@ https://dl.google.com/dl/android/aosp/komodo-ota-ap3a.241005.015.a2-de28fee0.zip
 https://dl.google.com/dl/android/aosp/komodo-ota-ap3a.241105.008-9be9eed2.zip
 https://dl.google.com/dl/android/aosp/komodo-ota-ap4a.241205.013-9addf596.zip
 https://dl.google.com/dl/android/aosp/komodo-ota-ap4a.241205.013.b1-09a52aa8.zip
+https://dl.google.com/dl/android/aosp/komodo-ota-ap4a.241205.013.c1-e3d5f405.zip
 https://dl.google.com/dl/android/aosp/tokay-ota-ad1a.240530.030-5077f537.zip
 https://dl.google.com/dl/android/aosp/tokay-ota-ad1a.240530.030.a1-d2b8e63a.zip
 https://dl.google.com/dl/android/aosp/tokay-ota-ad1a.240530.030.a2-33964b07.zip
@@ -38,6 +41,7 @@ https://dl.google.com/dl/android/aosp/tokay-ota-ap3a.241005.015.a2-2ced5843.zip
 https://dl.google.com/dl/android/aosp/tokay-ota-ap3a.241105.008-1c012036.zip
 https://dl.google.com/dl/android/aosp/tokay-ota-ap4a.241205.013-e7b70ea0.zip
 https://dl.google.com/dl/android/aosp/tokay-ota-ap4a.241205.013.b1-cd9e133e.zip
+https://dl.google.com/dl/android/aosp/tokay-ota-ap4a.241205.013.c1-c1f50d4c.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ud2a.231203.054-6b2d9ff8.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ud2a.231203.057-2c479937.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ud2a.231203.057.a1-c7c08a9b.zip
@@ -61,6 +65,7 @@ https://dl.google.com/dl/android/aosp/akita-ota-ap3a.241005.015.a2-e83d650f.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap3a.241105.007-38cfd2b5.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap4a.241205.013-de582711.zip
 https://dl.google.com/dl/android/aosp/akita-ota-ap4a.241205.013.b1-2344e716.zip
+https://dl.google.com/dl/android/aosp/akita-ota-ap4a.241205.013.c1-22515fee.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022-102b3fd3.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.a3-d9351256.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ud1a.230803.022.a4-3fc154f8.zip
@@ -96,6 +101,7 @@ https://dl.google.com/dl/android/aosp/husky-ota-ap3a.241005.015.a2-ab179c99.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap3a.241105.007-65d7be98.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap4a.241205.013-ae93708d.zip
 https://dl.google.com/dl/android/aosp/husky-ota-ap4a.241205.013.b1-fd4d078a.zip
+https://dl.google.com/dl/android/aosp/husky-ota-ap4a.241205.013.c1-4c0b3e3e.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.a5-415253a6.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.b2-8813e2e5.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ud1a.230803.022.c1-527c3ceb.zip
@@ -131,6 +137,7 @@ https://dl.google.com/dl/android/aosp/shiba-ota-ap3a.241005.015.a2-19f521db.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap3a.241105.007-85d3297d.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap4a.241205.013-7f13493c.zip
 https://dl.google.com/dl/android/aosp/shiba-ota-ap4a.241205.013.b1-9a2217c9.zip
+https://dl.google.com/dl/android/aosp/shiba-ota-ap4a.241205.013.c1-9cf20dfc.zip
 https://dl.google.com/dl/android/aosp/felix-ota-td3a.230203.070.a1-125de0f9.zip
 https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c1-4f136d8d.zip
 https://dl.google.com/dl/android/aosp/felix-ota-tq3c.230605.010.c2-6cf8c3dc.zip
