@@ -182,6 +182,7 @@ https://dl.google.com/dl/android/aosp/google_devices-felix-ap3a.241005.015.a2-d2
 https://dl.google.com/dl/android/aosp/google_devices-felix-ap3a.241105.007-1584969f.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-ap4a.241205.013-9e256d67.tgz
 https://dl.google.com/dl/android/aosp/google_devices-felix-ap4a.241205.013.b1-e4b7ba80.tgz
+https://dl.google.com/dl/android/aosp/google_devices-felix-ap4a.241205.013.c1-1a5832dd.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-td2a.230203.028-d0eca6a8.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-tq3a.230605.009.a1-60ea6ec9.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tangorpro-tq3a.230705.001.b4-b538c6db.tgz
@@ -241,6 +242,7 @@ https://dl.google.com/dl/android/aosp/google_devices-lynx-ap3a.241005.015.a2-ba9
 https://dl.google.com/dl/android/aosp/google_devices-lynx-ap3a.241105.007-fa8ecdb4.tgz
 https://dl.google.com/dl/android/aosp/google_devices-lynx-ap4a.241205.013-8fe00e15.tgz
 https://dl.google.com/dl/android/aosp/google_devices-lynx-ap4a.241205.013.b1-0016739b.tgz
+https://dl.google.com/dl/android/aosp/google_devices-lynx-ap4a.241205.013.c1-a2042def.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.009.a2-724bfafc.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.009.a5-b5618083.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-td1a.220804.031-d59f7f42.tgz
@@ -293,6 +295,7 @@ https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap3a.241005.015.a2-
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap3a.241105.007-f0488074.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap4a.241205.013-63ced55a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap4a.241205.013.b1-b3d09f9d.tgz
+https://dl.google.com/dl/android/aosp/google_devices-cheetah-ap4a.241205.013.c1-26ddeb1b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-td1a.220804.009.a2-f2af1068.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-td1a.220804.009.a5-b08c4600.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-td1a.220804.031-0041fc65.tgz
@@ -345,6 +348,7 @@ https://dl.google.com/dl/android/aosp/google_devices-panther-ap3a.241005.015.a2-
 https://dl.google.com/dl/android/aosp/google_devices-panther-ap3a.241105.007-448e87e3.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-ap4a.241205.013-ee537a2d.tgz
 https://dl.google.com/dl/android/aosp/google_devices-panther-ap4a.241205.013.b1-ec9c406d.tgz
+https://dl.google.com/dl/android/aosp/google_devices-panther-ap4a.241205.013.c1-541cc234.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.001.a1-0145bbe6.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.004-7c778415.tgz
 https://dl.google.com/dl/android/aosp/google_devices-bluejay-sd2a.220601.002-1e7dd329.tgz

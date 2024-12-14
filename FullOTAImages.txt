@@ -178,6 +178,7 @@ https://dl.google.com/dl/android/aosp/felix-ota-ap3a.241005.015.a2-a9ea76a4.zip
 https://dl.google.com/dl/android/aosp/felix-ota-ap3a.241105.007-c9ba0974.zip
 https://dl.google.com/dl/android/aosp/felix-ota-ap4a.241205.013-a7b7c57f.zip
 https://dl.google.com/dl/android/aosp/felix-ota-ap4a.241205.013.b1-37c5b18b.zip
+https://dl.google.com/dl/android/aosp/felix-ota-ap4a.241205.013.c1-ddfc2988.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-td2a.230203.028-62304a0f.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-tq3a.230605.009.a1-19ab82f9.zip
 https://dl.google.com/dl/android/aosp/tangorpro-ota-tq3a.230705.001.b4-ee536602.zip
@@ -237,6 +238,7 @@ https://dl.google.com/dl/android/aosp/lynx-ota-ap3a.241005.015.a2-250a35d4.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-ap3a.241105.007-26c0a712.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-ap4a.241205.013-c8013227.zip
 https://dl.google.com/dl/android/aosp/lynx-ota-ap4a.241205.013.b1-f22fb9d6.zip
+https://dl.google.com/dl/android/aosp/lynx-ota-ap4a.241205.013.c1-f0bf07bc.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a5-f0c1f917.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.031-cd81a567.zip
@@ -289,6 +291,7 @@ https://dl.google.com/dl/android/aosp/cheetah-ota-ap3a.241005.015.a2-b76f9cf0.zi
 https://dl.google.com/dl/android/aosp/cheetah-ota-ap3a.241105.007-6417e400.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-ap4a.241205.013-295dbbca.zip
 https://dl.google.com/dl/android/aosp/cheetah-ota-ap4a.241205.013.b1-81743b96.zip
+https://dl.google.com/dl/android/aosp/cheetah-ota-ap4a.241205.013.c1-25436aad.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a5-44511a4b.zip
 https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.031-8236abf4.zip
@@ -341,6 +344,7 @@ https://dl.google.com/dl/android/aosp/panther-ota-ap3a.241005.015.a2-c1e0b14e.zi
 https://dl.google.com/dl/android/aosp/panther-ota-ap3a.241105.007-fe11110e.zip
 https://dl.google.com/dl/android/aosp/panther-ota-ap4a.241205.013-f3cd158f.zip
 https://dl.google.com/dl/android/aosp/panther-ota-ap4a.241205.013.b1-df4d1e5d.zip
+https://dl.google.com/dl/android/aosp/panther-ota-ap4a.241205.013.c1-f2bdba88.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip
 https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.002-344f1ec9.zip
