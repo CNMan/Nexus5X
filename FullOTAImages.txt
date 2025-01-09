@@ -790,6 +790,7 @@ https://dl.google.com/dl/android/aosp/sunfish-ota-tq3a.230705.001-9ed5191d.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-tq3a.230805.001-01fd34b2.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-tq3a.230805.001.a2-9715e0cd.zip
 https://dl.google.com/dl/android/aosp/sunfish-ota-tq3a.230805.001.s1-965296b1.zip
+https://dl.google.com/dl/android/aosp/sunfish-ota-tq3a.230805.001.s2-26ab5a81.zip
 https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.007-a80cd76e.zip
 https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.011-f47dde8c.zip
 https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.011.c4-2d2325db.zip

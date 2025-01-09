@@ -1032,6 +1032,8 @@ https://dl.google.com/dl/android/aosp/google_devices-sunfish-tq3a.230805.001.a2-
 https://dl.google.com/dl/android/aosp/qcom-sunfish-tq3a.230805.001.a2-d51b6a1a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-sunfish-tq3a.230805.001.s1-2a7bf157.tgz
 https://dl.google.com/dl/android/aosp/qcom-sunfish-tq3a.230805.001.s1-377dd9d9.tgz
+https://dl.google.com/dl/android/aosp/google_devices-sunfish-tq3a.230805.001.s2-cb707885.tgz
+https://dl.google.com/dl/android/aosp/qcom-sunfish-tq3a.230805.001.s2-ac1cbc16.tgz
 https://dl.google.com/dl/android/aosp/google_devices-coral-qd1a.190821.007-b27ff668.tgz
 https://dl.google.com/dl/android/aosp/qcom-coral-qd1a.190821.007-d21b5aaf.tgz
 https://dl.google.com/dl/android/aosp/google_devices-coral-qd1a.190821.011-fb3dfdc8.tgz
