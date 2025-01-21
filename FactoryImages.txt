@@ -10,6 +10,7 @@ https://dl.google.com/dl/android/aosp/comet-ap4a.241205.013.b1-factory-ba69154f.
 https://dl.google.com/dl/android/aosp/comet-ap4a.241205.013.c1-factory-dccfcd26.zip
 https://dl.google.com/dl/android/aosp/comet-ap4a.250105.002-factory-aa2a315e.zip
 https://dl.google.com/dl/android/aosp/comet-ap4a.250105.002.b1-factory-a7a2a988.zip
+https://dl.google.com/dl/android/aosp/comet-ap4a.250105.002.c1-factory-7904b706.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030-factory-5e2727b9.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a1-factory-5a5409a8.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a2-factory-b6c8d14d.zip
@@ -23,6 +24,7 @@ https://dl.google.com/dl/android/aosp/caiman-ap4a.241205.013.b1-factory-63763b8c
 https://dl.google.com/dl/android/aosp/caiman-ap4a.241205.013.c1-factory-db9b5f0e.zip
 https://dl.google.com/dl/android/aosp/caiman-ap4a.250105.002-factory-c63e0cc2.zip
 https://dl.google.com/dl/android/aosp/caiman-ap4a.250105.002.b1-factory-ca78c16b.zip
+https://dl.google.com/dl/android/aosp/caiman-ap4a.250105.002.c1-factory-b7ac21a1.zip
 https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030-factory-fb963bd6.zip
 https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030.a1-factory-06b98f68.zip
 https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030.a2-factory-f3d59301.zip
@@ -36,6 +38,7 @@ https://dl.google.com/dl/android/aosp/komodo-ap4a.241205.013.b1-factory-ddfbeebc
 https://dl.google.com/dl/android/aosp/komodo-ap4a.241205.013.c1-factory-36944ce4.zip
 https://dl.google.com/dl/android/aosp/komodo-ap4a.250105.002-factory-1f16cb17.zip
 https://dl.google.com/dl/android/aosp/komodo-ap4a.250105.002.b1-factory-6776e03f.zip
+https://dl.google.com/dl/android/aosp/komodo-ap4a.250105.002.c1-factory-77f38734.zip
 https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030.a1-factory-c00748c8.zip
 https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030-factory-6e7c358b.zip
 https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030.a2-factory-586308ac.zip
@@ -50,6 +53,7 @@ https://dl.google.com/dl/android/aosp/tokay-ap4a.241205.013.b1-factory-cec75b31.
 https://dl.google.com/dl/android/aosp/tokay-ap4a.241205.013.c1-factory-b7ade089.zip
 https://dl.google.com/dl/android/aosp/tokay-ap4a.250105.002-factory-d3f58a9f.zip
 https://dl.google.com/dl/android/aosp/tokay-ap4a.250105.002.b1-factory-9c90aeca.zip
+https://dl.google.com/dl/android/aosp/tokay-ap4a.250105.002.c1-factory-00b33097.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.054-factory-b3a902d4.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057.a1-factory-56cd4f4f.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057-factory-6ce595bb.zip
