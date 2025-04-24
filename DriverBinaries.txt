@@ -52,8 +52,6 @@ https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240530.047-9171
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ad1a.240905.004-27bbb63e.tgz
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015-824c630c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015.a2-840ff8c1.tgz
-https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015-824c630c.tgz
-https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241005.015.a2-840ff8c1.tgz
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ap3a.241105.008-9930e3f7.tgz
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ap4a.241205.013-ad370cde.tgz
 https://dl.google.com/dl/android/aosp/google_devices-komodo-ap4a.241205.013.b1-d27dfaef.tgz
@@ -76,8 +74,6 @@ https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.a2-0c
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.030.b1-5eea152a.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240530.047-86ea418b.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ad1a.240905.004-c79c5623.tgz
-https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015-26eab14c.tgz
-https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015.a2-c3374599.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015-26eab14c.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241005.015.a2-c3374599.tgz
 https://dl.google.com/dl/android/aosp/google_devices-tokay-ap3a.241105.008-778f055b.tgz
