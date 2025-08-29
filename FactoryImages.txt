@@ -1,3 +1,15 @@
+https://dl.google.com/dl/android/aosp/blazer-bd1a.250702.001-factory-f2267c45.zip
+https://dl.google.com/dl/android/aosp/blazer-bd1a.250702.001.a3-factory-2ea9335c.zip
+https://dl.google.com/dl/android/aosp/blazer-bd3a.250721.001-factory-e4aa8889.zip
+https://dl.google.com/dl/android/aosp/blazer-bd3a.250721.001.a1-factory-33ce8611.zip
+https://dl.google.com/dl/android/aosp/frankel-bd1a.250702.001-factory-1a0ca670.zip
+https://dl.google.com/dl/android/aosp/frankel-bd1a.250702.001.a3-factory-b3f8b981.zip
+https://dl.google.com/dl/android/aosp/frankel-bd3a.250721.001-factory-e686cae9.zip
+https://dl.google.com/dl/android/aosp/frankel-bd3a.250721.001.a1-factory-7241736d.zip
+https://dl.google.com/dl/android/aosp/mustang-bd1a.250702.001-factory-c37e6f51.zip
+https://dl.google.com/dl/android/aosp/mustang-bd1a.250702.001.a3-factory-25dd8002.zip
+https://dl.google.com/dl/android/aosp/mustang-bd3a.250721.001-factory-0f215a80.zip
+https://dl.google.com/dl/android/aosp/mustang-bd3a.250721.001.a1-factory-5e164eb2.zip
 https://dl.google.com/dl/android/aosp/tegu-bd4a.240925.111-factory-eb8b0266.zip
 https://dl.google.com/dl/android/aosp/tegu-bd4a.250405.003-factory-6dba30b4.zip
 https://dl.google.com/dl/android/aosp/tegu-bd4a.250505.003-factory-c76c3c0d.zip
