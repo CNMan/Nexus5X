@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/rango-ota-bd3a.250808.001-f5927106.zip
+https://dl.google.com/dl/android/aosp/rango-ota-bd3a.251005.003-ca14833b.zip
+https://dl.google.com/dl/android/aosp/rango-ota-bd3a.251005.003.j2-1b06f2c4.zip
 https://dl.google.com/dl/android/aosp/blazer-ota-bd1a.250702.001-23331fee.zip
 https://dl.google.com/dl/android/aosp/blazer-ota-bd1a.250702.001.a3-9bff160f.zip
 https://dl.google.com/dl/android/aosp/blazer-ota-bd3a.250721.001-ca3da1c9.zip

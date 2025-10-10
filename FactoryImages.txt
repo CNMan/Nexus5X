@@ -1,3 +1,6 @@
+https://dl.google.com/dl/android/aosp/rango-bd3a.250808.001-factory-8f7b23b7.zip
+https://dl.google.com/dl/android/aosp/rango-bd3a.251005.003-factory-482c1280.zip
+https://dl.google.com/dl/android/aosp/rango-bd3a.251005.003.j2-factory-8db2d5cc.zip
 https://dl.google.com/dl/android/aosp/blazer-bd1a.250702.001-factory-f2267c45.zip
 https://dl.google.com/dl/android/aosp/blazer-bd1a.250702.001.a3-factory-2ea9335c.zip
 https://dl.google.com/dl/android/aosp/blazer-bd3a.250721.001-factory-e4aa8889.zip
