@@ -66,7 +66,7 @@ https://dl.google.com/dl/android/aosp/frankel-bp4a.260105.004.a2-factory-a8b63e0
 https://dl.google.com/dl/android/aosp/frankel-bp4a.260105.004.c2-factory-5bbcb52b.zip
 https://dl.google.com/dl/android/aosp/frankel-bp4a.260105.004.e1-factory-7b882d47.zip
 https://dl.google.com/dl/android/aosp/frankel-bp4a.260205.001-factory-679ee187.zip
-https://dl.google.com/dl/android/aosp/frankel-bp4a.260205.001.a1-factory-7f12161c.zip
+https://dl.google.com/dl/android/aosp/frankel-bp4a.260205.001.a1-factory-9c1f5316.zip
 https://dl.google.com/dl/android/aosp/frankel-bp4a.260205.001.c1-factory-0771dd5d.zip
 https://dl.google.com/dl/android/aosp/mustang-bd1a.250702.001-factory-c37e6f51.zip
 https://dl.google.com/dl/android/aosp/mustang-bd1a.250702.001.a3-factory-25dd8002.zip
