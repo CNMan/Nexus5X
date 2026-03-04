@@ -18,6 +18,7 @@ https://dl.google.com/dl/android/aosp/rango-bp4a.260105.004.e1-factory-0765b33a.
 https://dl.google.com/dl/android/aosp/rango-bp4a.260205.001-factory-f2b43fde.zip
 https://dl.google.com/dl/android/aosp/rango-bp4a.260205.001.a1-factory-a25a8e50.zip
 https://dl.google.com/dl/android/aosp/rango-bp4a.260205.001.c1-factory-59216588.zip
+https://dl.google.com/dl/android/aosp/rango-cp1a.260305.018-factory-cac1879a.zip
 https://dl.google.com/dl/android/aosp/blazer-bd1a.250702.001-factory-f2267c45.zip
 https://dl.google.com/dl/android/aosp/blazer-bd1a.250702.001.a3-factory-2ea9335c.zip
 https://dl.google.com/dl/android/aosp/blazer-bd3a.250721.001-factory-e4aa8889.zip
@@ -43,6 +44,7 @@ https://dl.google.com/dl/android/aosp/blazer-bp4a.260105.004.e1-factory-cfaec27d
 https://dl.google.com/dl/android/aosp/blazer-bp4a.260205.001-factory-44af5c18.zip
 https://dl.google.com/dl/android/aosp/blazer-bp4a.260205.001.a1-factory-8567270f.zip
 https://dl.google.com/dl/android/aosp/blazer-bp4a.260205.001.c1-factory-021c8fd4.zip
+https://dl.google.com/dl/android/aosp/blazer-cp1a.260305.018-factory-169c03cb.zip
 https://dl.google.com/dl/android/aosp/frankel-bd1a.250702.001-factory-1a0ca670.zip
 https://dl.google.com/dl/android/aosp/frankel-bd1a.250702.001.a3-factory-b3f8b981.zip
 https://dl.google.com/dl/android/aosp/frankel-bd3a.250721.001-factory-e686cae9.zip
@@ -68,6 +70,7 @@ https://dl.google.com/dl/android/aosp/frankel-bp4a.260105.004.e1-factory-7b882d4
 https://dl.google.com/dl/android/aosp/frankel-bp4a.260205.001-factory-679ee187.zip
 https://dl.google.com/dl/android/aosp/frankel-bp4a.260205.001.a1-factory-9c1f5316.zip
 https://dl.google.com/dl/android/aosp/frankel-bp4a.260205.001.c1-factory-0771dd5d.zip
+https://dl.google.com/dl/android/aosp/frankel-cp1a.260305.018-factory-35a2ddb6.zip
 https://dl.google.com/dl/android/aosp/mustang-bd1a.250702.001-factory-c37e6f51.zip
 https://dl.google.com/dl/android/aosp/mustang-bd1a.250702.001.a3-factory-25dd8002.zip
 https://dl.google.com/dl/android/aosp/mustang-bd3a.250721.001-factory-0f215a80.zip
@@ -93,6 +96,7 @@ https://dl.google.com/dl/android/aosp/mustang-bp4a.260105.004.e1-factory-5702ec2
 https://dl.google.com/dl/android/aosp/mustang-bp4a.260205.001-factory-b22707a4.zip
 https://dl.google.com/dl/android/aosp/mustang-bp4a.260205.001.a1-factory-c5c6ee64.zip
 https://dl.google.com/dl/android/aosp/mustang-bp4a.260205.001.c1-factory-5ad4c2d1.zip
+https://dl.google.com/dl/android/aosp/mustang-cp1a.260305.018-factory-dcfd0b31.zip
 https://dl.google.com/dl/android/aosp/tegu-bd4a.240925.111-factory-eb8b0266.zip
 https://dl.google.com/dl/android/aosp/tegu-bd4a.250405.003-factory-6dba30b4.zip
 https://dl.google.com/dl/android/aosp/tegu-bd4a.250505.003-factory-c76c3c0d.zip
@@ -118,6 +122,7 @@ https://dl.google.com/dl/android/aosp/tegu-bp4a.260105.004.e1-factory-ecc7a50b.z
 https://dl.google.com/dl/android/aosp/tegu-bp4a.260205.001-factory-1c69f00a.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.260205.001.b1-factory-8d13fb3c.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.260205.001.c1-factory-6f2d6c7d.zip
+https://dl.google.com/dl/android/aosp/tegu-cp1a.260305.018-factory-060f8a43.zip
 https://dl.google.com/dl/android/aosp/comet-ad1a.240530.030-factory-77dca584.zip
 https://dl.google.com/dl/android/aosp/comet-ad1a.240530.030.a1-factory-b8941ae3.zip
 https://dl.google.com/dl/android/aosp/comet-ad1a.240530.047-factory-93386866.zip
@@ -159,6 +164,7 @@ https://dl.google.com/dl/android/aosp/comet-bp4a.260105.004.a2-factory-d7066842.
 https://dl.google.com/dl/android/aosp/comet-bp4a.260105.004.e1-factory-9fa78e87.zip
 https://dl.google.com/dl/android/aosp/comet-bp4a.260205.002-factory-f5d0eeaf.zip
 https://dl.google.com/dl/android/aosp/comet-bp4a.260205.002.a1-factory-bb13005c.zip
+https://dl.google.com/dl/android/aosp/comet-cp1a.260305.018-factory-3ddebe4f.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030-factory-5e2727b9.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a1-factory-5a5409a8.zip
 https://dl.google.com/dl/android/aosp/caiman-ad1a.240530.030.a2-factory-b6c8d14d.zip
@@ -201,6 +207,7 @@ https://dl.google.com/dl/android/aosp/caiman-bp4a.260105.004.a2-factory-d6c8eb0c
 https://dl.google.com/dl/android/aosp/caiman-bp4a.260105.004.e1-factory-7b8ad0de.zip
 https://dl.google.com/dl/android/aosp/caiman-bp4a.260205.002-factory-df6fb7c7.zip
 https://dl.google.com/dl/android/aosp/caiman-bp4a.260205.002.a1-factory-e2358a57.zip
+https://dl.google.com/dl/android/aosp/caiman-cp1a.260305.018-factory-c0dc1d72.zip
 https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030-factory-fb963bd6.zip
 https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030.a1-factory-06b98f68.zip
 https://dl.google.com/dl/android/aosp/komodo-ad1a.240530.030.a2-factory-f3d59301.zip
@@ -243,6 +250,7 @@ https://dl.google.com/dl/android/aosp/komodo-bp4a.260105.004.a2-factory-606385eb
 https://dl.google.com/dl/android/aosp/komodo-bp4a.260105.004.e1-factory-4ac75651.zip
 https://dl.google.com/dl/android/aosp/komodo-bp4a.260205.002-factory-aaec4834.zip
 https://dl.google.com/dl/android/aosp/komodo-bp4a.260205.002.a1-factory-f56c4416.zip
+https://dl.google.com/dl/android/aosp/komodo-cp1a.260305.018-factory-de53c46e.zip
 https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030.a1-factory-c00748c8.zip
 https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030-factory-6e7c358b.zip
 https://dl.google.com/dl/android/aosp/tokay-ad1a.240530.030.a2-factory-586308ac.zip
@@ -286,6 +294,7 @@ https://dl.google.com/dl/android/aosp/tokay-bp4a.260105.004.a2-factory-78c70e72.
 https://dl.google.com/dl/android/aosp/tokay-bp4a.260105.004.e1-factory-1d16ccce.zip
 https://dl.google.com/dl/android/aosp/tokay-bp4a.260205.002-factory-45177450.zip
 https://dl.google.com/dl/android/aosp/tokay-bp4a.260205.002.a1-factory-dd26efdd.zip
+https://dl.google.com/dl/android/aosp/tokay-cp1a.260305.018-factory-381813cf.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.054-factory-b3a902d4.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057.a1-factory-56cd4f4f.zip
 https://dl.google.com/dl/android/aosp/akita-ud2a.231203.057-factory-6ce595bb.zip
@@ -328,6 +337,7 @@ https://dl.google.com/dl/android/aosp/akita-bp4a.251205.006-factory-c4b30823.zip
 https://dl.google.com/dl/android/aosp/akita-bp4a.251205.006.e1-factory-292fa252.zip
 https://dl.google.com/dl/android/aosp/akita-bp4a.260105.004.e1-factory-d9bc5fb8.zip
 https://dl.google.com/dl/android/aosp/akita-bp4a.260205.001-factory-661cb49b.zip
+https://dl.google.com/dl/android/aosp/akita-cp1a.260305.018-factory-b8d9b98e.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a3-factory-a95417f6.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.a4-factory-621d3cb0.zip
 https://dl.google.com/dl/android/aosp/husky-ud1a.230803.022.b1-factory-ad17d26d.zip
@@ -382,6 +392,7 @@ https://dl.google.com/dl/android/aosp/husky-bp4a.251205.006-factory-1ffce50c.zip
 https://dl.google.com/dl/android/aosp/husky-bp4a.251205.006.e1-factory-b4ea4aba.zip
 https://dl.google.com/dl/android/aosp/husky-bp4a.260105.004.e1-factory-1a9ef6a5.zip
 https://dl.google.com/dl/android/aosp/husky-bp4a.260205.001-factory-61e86561.zip
+https://dl.google.com/dl/android/aosp/husky-cp1a.260305.018-factory-9031afa6.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.a5-factory-85c06d1d.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.b2-factory-829d0a85.zip
 https://dl.google.com/dl/android/aosp/shiba-ud1a.230803.022.c1-factory-750b1e83.zip
@@ -436,6 +447,7 @@ https://dl.google.com/dl/android/aosp/shiba-bp4a.251205.006-factory-b4b212fa.zip
 https://dl.google.com/dl/android/aosp/shiba-bp4a.251205.006.e1-factory-cda5c1cb.zip
 https://dl.google.com/dl/android/aosp/shiba-bp4a.260105.004.e1-factory-c7cb1ddd.zip
 https://dl.google.com/dl/android/aosp/shiba-bp4a.260205.001-factory-35b8480d.zip
+https://dl.google.com/dl/android/aosp/shiba-cp1a.260305.018-factory-e3607b56.zip
 https://dl.google.com/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c1-factory-39d45734.zip
 https://dl.google.com/dl/android/aosp/felix-tq3c.230605.010.c2-factory-a3fcba63.zip
@@ -494,6 +506,7 @@ https://dl.google.com/dl/android/aosp/felix-bp3a.251105.015-factory-1a14950a.zip
 https://dl.google.com/dl/android/aosp/felix-bp4a.251205.006-factory-0525f35d.zip
 https://dl.google.com/dl/android/aosp/felix-bp4a.260105.004.e1-factory-71a34bdd.zip
 https://dl.google.com/dl/android/aosp/felix-bp4a.260205.001-factory-31fd0632.zip
+https://dl.google.com/dl/android/aosp/felix-cp1a.260305.018-factory-50a33fd4.zip
 https://dl.google.com/dl/android/aosp/tangorpro-td2a.230203.028-factory-55b7fab7.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230605.009.a1-factory-6e0496d1.zip
 https://dl.google.com/dl/android/aosp/tangorpro-tq3a.230705.001.b4-factory-42ee72b7.zip
@@ -528,6 +541,7 @@ https://dl.google.com/dl/android/aosp/tangorpro-bp3a.251105.013.a1-factory-3527f
 https://dl.google.com/dl/android/aosp/tangorpro-bp4a.251205.006-factory-e276b102.zip
 https://dl.google.com/dl/android/aosp/tangorpro-bp4a.260105.004.e1-factory-a3a616db.zip
 https://dl.google.com/dl/android/aosp/tangorpro-bp4a.260205.001-factory-2808cbaf.zip
+https://dl.google.com/dl/android/aosp/tangorpro-cp1a.260305.018-factory-b14a7c6c.zip
 https://dl.google.com/dl/android/aosp/lynx-td4a.221205.042-factory-f94007e2.zip
 https://dl.google.com/dl/android/aosp/lynx-td4a.221205.042.a1-factory-71179802.zip
 https://dl.google.com/dl/android/aosp/lynx-td4a.221205.042.b1-factory-25e0451e.zip
@@ -584,6 +598,7 @@ https://dl.google.com/dl/android/aosp/lynx-bp3a.251005.004.b2-factory-2b3bdd27.z
 https://dl.google.com/dl/android/aosp/lynx-bp3a.251105.015-factory-32237bad.zip
 https://dl.google.com/dl/android/aosp/lynx-bp4a.260105.004.e1-factory-579db81b.zip
 https://dl.google.com/dl/android/aosp/lynx-bp4a.260205.001-factory-8835b453.zip
+https://dl.google.com/dl/android/aosp/lynx-cp1a.260305.018-factory-698fbee7.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.009.a2-factory-8e7393e1.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.009.a5-factory-c68659bd.zip
 https://dl.google.com/dl/android/aosp/cheetah-td1a.220804.031-factory-6152f6f3.zip
@@ -651,6 +666,7 @@ https://dl.google.com/dl/android/aosp/cheetah-bp3a.250905.014-factory-3ef97bbc.z
 https://dl.google.com/dl/android/aosp/cheetah-bp3a.251005.004.b1-factory-e2233e94.zip
 https://dl.google.com/dl/android/aosp/cheetah-bp3a.251005.004.b2-factory-9d97e87a.zip
 https://dl.google.com/dl/android/aosp/cheetah-bp4a.251205.006-factory-1577f43b.zip
+https://dl.google.com/dl/android/aosp/cheetah-cp1a.260305.018-factory-12312c06.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a2-factory-336ba5c1.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.009.a5-factory-3c42ee81.zip
 https://dl.google.com/dl/android/aosp/panther-td1a.220804.031-factory-2f036a47.zip
@@ -718,10 +734,12 @@ https://dl.google.com/dl/android/aosp/panther-bp3a.250905.014-factory-dcb167e7.z
 https://dl.google.com/dl/android/aosp/panther-bp3a.251005.004.b1-factory-253694cd.zip
 https://dl.google.com/dl/android/aosp/panther-bp3a.251005.004.b2-factory-571b002d.zip
 https://dl.google.com/dl/android/aosp/panther-bp4a.251205.006-factory-4455f800.zip
+https://dl.google.com/dl/android/aosp/panther-cp1a.260305.018-factory-04364062.zip
 https://dl.google.com/dl/android/aosp/bluejay-bp2a.250705.008-factory-128110b0.zip
 https://dl.google.com/dl/android/aosp/bluejay-bp2a.250705.008.a1-factory-c394526e.zip
 https://dl.google.com/dl/android/aosp/bluejay-bp3a.250905.014-factory-8cd5afbe.zip
 https://dl.google.com/dl/android/aosp/bluejay-bp4a.251205.006-factory-203dc556.zip
+https://dl.google.com/dl/android/aosp/bluejay-cp1a.260305.018-factory-9ea09a6f.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.b1-factory-1309fcfa.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.c2-factory-b1907625.zip
@@ -800,6 +818,7 @@ https://dl.google.com/dl/android/aosp/oriole-bp2a.250605.031.a2-factory-747402f2
 https://dl.google.com/dl/android/aosp/oriole-bp2a.250605.031.a5-factory-5a0a6d42.zip
 https://dl.google.com/dl/android/aosp/oriole-bp3a.250905.014-factory-645d4079.zip
 https://dl.google.com/dl/android/aosp/oriole-bp4a.251205.006-factory-dcfbf4cc.zip
+https://dl.google.com/dl/android/aosp/oriole-cp1a.260305.018-factory-9f6e0373.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.015.a4-factory-bd6cb030.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.b1-factory-e74172d8.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.c2-factory-618ef258.zip
@@ -878,6 +897,7 @@ https://dl.google.com/dl/android/aosp/raven-bp2a.250605.031.a2-factory-fdd1008f.
 https://dl.google.com/dl/android/aosp/raven-bp2a.250605.031.a5-factory-72a2fa52.zip
 https://dl.google.com/dl/android/aosp/raven-bp3a.250905.014-factory-478ac4bd.zip
 https://dl.google.com/dl/android/aosp/raven-bp4a.251205.006-factory-2b3b5168.zip
+https://dl.google.com/dl/android/aosp/raven-cp1a.260305.018-factory-22b518a7.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.006-factory-619b07d2.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210905.002-factory-923343d0.zip
