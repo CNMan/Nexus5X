@@ -742,6 +742,7 @@ https://dl.google.com/dl/android/aosp/bluejay-bp2a.250705.008.a1-factory-c394526
 https://dl.google.com/dl/android/aosp/bluejay-bp3a.250905.014-factory-8cd5afbe.zip
 https://dl.google.com/dl/android/aosp/bluejay-bp4a.251205.006-factory-203dc556.zip
 https://dl.google.com/dl/android/aosp/bluejay-cp1a.260305.018-factory-9ea09a6f.zip
+https://dl.google.com/dl/android/aosp/bluejay-cp1a.260305.018.a1-factory-8aaf9887.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.b1-factory-1309fcfa.zip
 https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.019.c2-factory-b1907625.zip
@@ -821,6 +822,7 @@ https://dl.google.com/dl/android/aosp/oriole-bp2a.250605.031.a5-factory-5a0a6d42
 https://dl.google.com/dl/android/aosp/oriole-bp3a.250905.014-factory-645d4079.zip
 https://dl.google.com/dl/android/aosp/oriole-bp4a.251205.006-factory-dcfbf4cc.zip
 https://dl.google.com/dl/android/aosp/oriole-cp1a.260305.018-factory-9f6e0373.zip
+https://dl.google.com/dl/android/aosp/oriole-cp1a.260305.018.a1-factory-86152aaf.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.015.a4-factory-bd6cb030.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.b1-factory-e74172d8.zip
 https://dl.google.com/dl/android/aosp/raven-sd1a.210817.019.c2-factory-618ef258.zip
@@ -900,6 +902,7 @@ https://dl.google.com/dl/android/aosp/raven-bp2a.250605.031.a5-factory-72a2fa52.
 https://dl.google.com/dl/android/aosp/raven-bp3a.250905.014-factory-478ac4bd.zip
 https://dl.google.com/dl/android/aosp/raven-bp4a.251205.006-factory-2b3b5168.zip
 https://dl.google.com/dl/android/aosp/raven-cp1a.260305.018-factory-22b518a7.zip
+https://dl.google.com/dl/android/aosp/raven-cp1a.260305.018.a1-factory-bea29767.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.006-factory-619b07d2.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210605.007-factory-685c0dfd.zip
 https://dl.google.com/dl/android/aosp/barbet-rd2a.210905.002-factory-923343d0.zip
