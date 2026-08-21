@@ -1,3 +1,15 @@
+https://dl.google.com/dl/android/aosp/cubs-cd1a.260618.001.a7-factory-fe27e572.zip
+https://dl.google.com/dl/android/aosp/cubs-cd1a.260618.001.c2-factory-da6598a3.zip
+https://dl.google.com/dl/android/aosp/cubs-cd1a.260714.001.a9-factory-a529c436.zip
+https://dl.google.com/dl/android/aosp/grizzly-cd1a.260618.001.a7-factory-fcbe9324.zip
+https://dl.google.com/dl/android/aosp/grizzly-cd1a.260618.001.c2-factory-9403b0f6.zip
+https://dl.google.com/dl/android/aosp/grizzly-cd1a.260714.001.a9-factory-86fb8151.zip
+https://dl.google.com/dl/android/aosp/kodiak-cd1a.260618.001.a7-factory-ef0c679d.zip
+https://dl.google.com/dl/android/aosp/kodiak-cd1a.260618.001.c2-factory-1b9e03e3.zip
+https://dl.google.com/dl/android/aosp/kodiak-cd1a.260714.001.a9-factory-b8263247.zip
+https://dl.google.com/dl/android/aosp/yogi-cd1a.260618.001.a9-factory-da72a39a.zip
+https://dl.google.com/dl/android/aosp/yogi-cd1a.260618.001.c3-factory-4e0bc28e.zip
+https://dl.google.com/dl/android/aosp/yogi-cd1a.260714.001.a9-factory-0c09a12c.zip
 https://dl.google.com/dl/android/aosp/stallion-bd6a.251031.001.a4-factory-7420a527.zip
 https://dl.google.com/dl/android/aosp/stallion-cp1a.260305.018-factory-0967f30d.zip
 https://dl.google.com/dl/android/aosp/stallion-cp1a.260405.005-factory-3ad1a9c1.zip

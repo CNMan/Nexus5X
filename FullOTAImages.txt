@@ -1,3 +1,15 @@
+https://dl.google.com/dl/android/aosp/cubs-ota-cd1a.260618.001.a7-7f02515d.zip
+https://dl.google.com/dl/android/aosp/cubs-ota-cd1a.260618.001.c2-4c3f6aae.zip
+https://dl.google.com/dl/android/aosp/cubs-ota-cd1a.260714.001.a9-4834ee9d.zip
+https://dl.google.com/dl/android/aosp/grizzly-ota-cd1a.260618.001.a7-abbce8a6.zip
+https://dl.google.com/dl/android/aosp/grizzly-ota-cd1a.260618.001.c2-bac4ce22.zip
+https://dl.google.com/dl/android/aosp/grizzly-ota-cd1a.260714.001.a9-68ec73fe.zip
+https://dl.google.com/dl/android/aosp/kodiak-ota-cd1a.260618.001.a7-b293170d.zip
+https://dl.google.com/dl/android/aosp/kodiak-ota-cd1a.260618.001.c2-f23df0c5.zip
+https://dl.google.com/dl/android/aosp/kodiak-ota-cd1a.260714.001.a9-a765784f.zip
+https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.260618.001.a9-8a6c8928.zip
+https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.260618.001.c3-6618b541.zip
+https://dl.google.com/dl/android/aosp/yogi-ota-cd1a.260714.001.a9-922b48f1.zip
 https://dl.google.com/dl/android/aosp/stallion-ota-bd6a.251031.001.a4-babc6d73.zip
 https://dl.google.com/dl/android/aosp/stallion-ota-cp1a.260305.018-c157843a.zip
 https://dl.google.com/dl/android/aosp/stallion-ota-cp1a.260405.005-0a525a41.zip
