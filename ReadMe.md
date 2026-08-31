@@ -1,3 +1,5 @@
 * [Factory Images for Nexus and Pixel Devices](https://developers.google.com/android/images)
 * [Full OTA Images for Nexus and Pixel Devices](https://developers.google.com/android/ota)
 * [Driver Binaries for Nexus and Pixel Devices](https://developers.google.com/android/drivers)
+* [Factory Images for Google Pixel Watch Devices](https://developers.google.com/android/images-watch)
+* [Full OTA Images for Google Pixel Watch Devices](https://developers.google.com/android/ota-watch)
