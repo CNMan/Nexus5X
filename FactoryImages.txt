@@ -46,7 +46,7 @@ https://dl.google.com/dl/android/aosp/rango-bd3a.251105.010.j3-factory-dcd1e23c.
 https://dl.google.com/dl/android/aosp/rango-bp4a.251205.006-factory-e042c4f0.zip
 https://dl.google.com/dl/android/aosp/rango-bp4a.251205.006.a1-factory-43f966d3.zip
 https://dl.google.com/dl/android/aosp/rango-bp4a.251205.006.c1-factory-9dce598a.zip
-https://dl.google.com/dl/android/aosp/rango-bp4a.251205.006.a4-factory-4abc79ef.zip
+https://dl.google.com/dl/android/aosp/rango-bp4a.251205.006.a4-factory-ff974395.zip
 https://dl.google.com/dl/android/aosp/rango-bp4a.251205.006.c2-factory-11e5e968.zip
 https://dl.google.com/dl/android/aosp/rango-bp4a.251205.006.e1-factory-aff0885b.zip
 https://dl.google.com/dl/android/aosp/rango-bp4a.260105.004.a2-factory-66d1d328.zip
@@ -157,7 +157,7 @@ https://dl.google.com/dl/android/aosp/mustang-bd3a.251105.010.j3-factory-e444bec
 https://dl.google.com/dl/android/aosp/mustang-bp4a.251205.006-factory-05684788.zip
 https://dl.google.com/dl/android/aosp/mustang-bp4a.251205.006.a1-factory-c1b1164c.zip
 https://dl.google.com/dl/android/aosp/mustang-bp4a.251205.006.c1-factory-89c67023.zip
-https://dl.google.com/dl/android/aosp/mustang-bp4a.251205.006.a4-factory-f8b8972b.zip
+https://dl.google.com/dl/android/aosp/mustang-bp4a.251205.006.a4-factory-12f2c877.zip
 https://dl.google.com/dl/android/aosp/mustang-bp4a.251205.006.c2-factory-c4c26276.zip
 https://dl.google.com/dl/android/aosp/mustang-bp4a.251205.006.e1-factory-6763b68f.zip
 https://dl.google.com/dl/android/aosp/mustang-bp4a.260105.004.a2-factory-c371490a.zip
@@ -195,7 +195,7 @@ https://dl.google.com/dl/android/aosp/tegu-bp4a.251205.006-factory-bbeed3e8.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.251205.006.b1-factory-45d35754.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.251205.006.c1-factory-77d63613.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.251205.006.b3-factory-e0e18880.zip
-https://dl.google.com/dl/android/aosp/tegu-bp4a.251205.006.c2-factory-539ebddb.zip
+https://dl.google.com/dl/android/aosp/tegu-bp4a.251205.006.c2-factory-443cf083.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.251205.006.e1-factory-b21334d8.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.260105.004.b2-factory-036cf250.zip
 https://dl.google.com/dl/android/aosp/tegu-bp4a.260105.004.c2-factory-89fea3bc.zip
